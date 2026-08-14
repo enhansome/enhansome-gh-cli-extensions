@@ -1,0 +1,1252 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "poi",
+          "description": "Safely clean up your local branches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-26T05:56:29Z",
+            "owner": "seachicken",
+            "repo": "gh-poi",
+            "stars": 1001
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "branch",
+          "description": "Extension for fuzzy finding, quickly switching between and deleting branches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-16T05:36:27Z",
+            "owner": "mislav",
+            "repo": "gh-branch",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clean-branches",
+          "description": "Safely delete local branches that have no remotes and no hanging changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-19T16:50:57Z",
+            "owner": "davidraviv",
+            "repo": "gh-clean-branches",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tidy",
+          "description": "Extension for tidying your Git workspace.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-30T20:55:05Z",
+            "owner": "HaywardMorihara",
+            "repo": "gh-tidy",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "subrepo",
+          "description": "Extension for managing git submodules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-11-24T18:08:02Z",
+            "owner": "teaglebuilt",
+            "repo": "gh-subrepo",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Git"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dash",
+          "description": "Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T12:50:44Z",
+            "owner": "dlvhdr",
+            "repo": "gh-dash",
+            "stars": 12302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eco",
+          "description": "Extension to explore github ecosystem, like github profile, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-17T05:34:28Z",
+            "owner": "jrnxf",
+            "repo": "gh-eco",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gei",
+          "description": "Extension to help you move your enterprise to GitHub Enterprise Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T22:30:03Z",
+            "owner": "github",
+            "repo": "gh-gei",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "token",
+          "description": "Create an installation access token for a GitHub app from your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-03T11:54:37Z",
+            "owner": "Link-",
+            "repo": "gh-token",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "notify",
+          "description": "Extension to display GitHub notifications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-22T15:12:55Z",
+            "owner": "meiji163",
+            "repo": "gh-notify",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "net",
+          "description": "Network bridge for GitHub Codespaces.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-09-15T21:35:01Z",
+            "owner": "github",
+            "repo": "gh-net",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actions-cache",
+          "description": "Extension to manage the GitHub Actions caches being used in a GitHub repository.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-10-21T16:20:06Z",
+            "owner": "actions",
+            "repo": "gh-actions-cache",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "image",
+          "description": "Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T22:07:32Z",
+            "owner": "drogers0",
+            "repo": "gh-image",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "profile",
+          "description": "Extension that allows you to use multiple GitHub accounts with the gh cli.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-01-15T21:39:55Z",
+            "owner": "gabe565",
+            "repo": "gh-profile",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sql",
+          "description": "Query GitHub Projects (beta) with SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-19T05:59:30Z",
+            "owner": "KOBA789",
+            "repo": "gh-sql",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sub-issue",
+          "description": "Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-28T13:29:25Z",
+            "owner": "yahsan2",
+            "repo": "gh-sub-issue",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "combine-prs",
+          "description": "An extension for GitHub CLI that combines multiple PRs into one.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-09-20T19:01:28Z",
+            "owner": "rnorth",
+            "repo": "gh-combine-prs",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cp",
+          "description": "Extension to copy a file from a GitHub repository locally without cloning the repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-08T18:00:37Z",
+            "owner": "mislav",
+            "repo": "gh-cp",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "projects",
+          "description": "Official extension for managing your github projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2023-06-21T16:36:10Z",
+            "owner": "github",
+            "repo": "gh-projects",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "user-status",
+          "description": "Set and get github user statuses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-11T21:00:11Z",
+            "owner": "vilmibm",
+            "repo": "gh-user-status",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milestone",
+          "description": "GitHub CLI extension for managing milestones.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-15T11:10:07Z",
+            "owner": "valeriobelli",
+            "repo": "gh-milestone",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "label",
+          "description": "Extension for issue label management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-01-20T08:47:18Z",
+            "owner": "heaths",
+            "repo": "gh-label",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bump",
+          "description": "Extension for bumping version of a repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T21:33:32Z",
+            "owner": "johnmanjiro13",
+            "repo": "gh-bump",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metrics",
+          "description": "Extension that provides summary pull request metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T11:14:33Z",
+            "owner": "hectcastro",
+            "repo": "gh-metrics",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repo-collab",
+          "description": "Extension to manage repository collaborators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-07-10T15:44:57Z",
+            "owner": "mislav",
+            "repo": "gh-repo-collab",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xplr",
+          "description": "Explore GitHub repos using xplr via GitHub CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2023-05-01T05:14:53Z",
+            "owner": "sayanarijit",
+            "repo": "gh-xplr",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "actions-status",
+          "description": "An extension to view the overall health of an organization's use of actions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-05-15T04:12:00Z",
+            "owner": "rsese",
+            "repo": "gh-actions-status",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stars",
+          "description": "GitHub stargazers in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-06T13:02:09Z",
+            "owner": "aymanbagabas",
+            "repo": "gh-stars",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "attach",
+          "description": "Upload files to GitHub user-attachments and get a URL from the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:15:40Z",
+            "owner": "sudosubin",
+            "repo": "gh-attach",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "look",
+          "description": "Interactive gh tool: drop an emoji, write comments, star repositories, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-20T15:57:45Z",
+            "owner": "LangLangBart",
+            "repo": "gh-look",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hook",
+          "description": "Extension to easily manage your github repository webhooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-10T02:31:34Z",
+            "owner": "lucasmelin",
+            "repo": "gh-hook",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ls",
+          "description": "GitHub CLI to list contents of GitHub repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-09T03:47:16Z",
+            "owner": "wuwe1",
+            "repo": "gh-ls",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "reaction",
+          "description": "View recent GitHub emoji reactions on your posts and repositories, or someone else's.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T18:50:22Z",
+            "owner": "ccoVeille",
+            "repo": "gh-reaction",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gr",
+          "description": "Pull, push and check status on multiple GitHub repositories at once.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T17:05:30Z",
+            "owner": "sarumaj",
+            "repo": "gh-gr",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulls",
+          "description": "View all open pull requests you have created.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-18T07:14:09Z",
+            "owner": "AaronMoat",
+            "repo": "gh-pulls",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "get-asset",
+          "description": "Fetch an asset (ie: binary) from a GitHub release.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-10-18T06:24:49Z",
+            "owner": "chmouel",
+            "repo": "gh-get-asset",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-users",
+          "description": "GH CLI extension to list all GitHub Org users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-07-19T16:43:55Z",
+            "owner": "yermulnik",
+            "repo": "gh-org-users",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "copilot-review",
+          "description": "Extension to request a Copilot code review on a PR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T02:14:44Z",
+            "owner": "ChrisCarini",
+            "repo": "gh-copilot-review",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watch",
+          "description": "Watch GitHub resources (PRs, commits, branches) for state changes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-16T20:23:46Z",
+            "owner": "justincampbell",
+            "repo": "gh-watch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gitignore",
+          "description": "Load gitignore files from GitHub into your project.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2024-04-29T16:07:46Z",
+            "owner": "garnertb",
+            "repo": "gh-gitignore",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "label-sync",
+          "description": "Extension for bulk label management and synchronization from YAML/JSON/CSV files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-13T00:02:43Z",
+            "owner": "scttfrdmn",
+            "repo": "gh-label-sync",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pr-todo",
+          "description": "Extract TODO-style comments from pull request diffs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T02:54:37Z",
+            "owner": "Suree33",
+            "repo": "gh-pr-todo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dep-risk",
+          "description": "Extension for on-demand npm dependency pull request risk review.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-10T08:50:23Z",
+            "owner": "rad1092",
+            "repo": "gh-dependency-risk",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milestone-manager",
+          "description": "Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-13T00:17:52Z",
+            "owner": "scttfrdmn",
+            "repo": "gh-milestone-manager",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outagedeck",
+          "description": "Check GitHub and cloud/SaaS dependency status from official vendor status feeds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T12:45:10Z",
+            "owner": "outagedeck",
+            "repo": "gh-outagedeck",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Github"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "classroom",
+          "description": "Official extension for GitHub Classroom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-14T21:49:36Z",
+            "owner": "github",
+            "repo": "gh-classroom",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-clone",
+          "description": "Clone GitHub Classroom assignments in an easy way",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-09-20T11:43:39Z",
+            "owner": "gh-cli-for-education",
+            "repo": "gh-org-clone",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-teams",
+          "description": "Get info about the teams of a GitHub classroom organization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-02-02T12:47:17Z",
+            "owner": "gh-cli-for-education",
+            "repo": "gh-org-teams",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-browse-repo",
+          "description": "Browse and get stats from student repos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-12T11:39:17Z",
+            "owner": "gh-cli-for-education",
+            "repo": "gh-org-browse-repo",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "org-members",
+          "description": "Obtain information about the students of a GitHub classroom organization",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-12T12:50:37Z",
+            "owner": "gh-cli-for-education",
+            "repo": "gh-org-members",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GitHub Education"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "markdown-preview",
+          "description": "GitHub CLI extension to preview Markdown looks like GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-05-21T07:33:02Z",
+            "owner": "yusukebe",
+            "repo": "gh-markdown-preview",
+            "stars": 875
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s",
+          "description": "Search GitHub repositories interactively from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-20T11:48:41Z",
+            "owner": "gennaro-tedesco",
+            "repo": "gh-s",
+            "stars": 411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f",
+          "description": "The ultimate compact fzf gh extension.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-23T10:24:09Z",
+            "owner": "gennaro-tedesco",
+            "repo": "gh-f",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grep",
+          "description": "Print lines matching a pattern in repositories using GitHub API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-22T12:00:08Z",
+            "owner": "k1LoW",
+            "repo": "gh-grep",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "install",
+          "description": "Install GitHub release binaries from the CLI interactively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-12-09T11:53:19Z",
+            "owner": "redraw",
+            "repo": "gh-install",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "user-stars",
+          "description": "Extension that displays an interactive list of your github stars.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-11-15T08:49:08Z",
+            "owner": "korosuke613",
+            "repo": "gh-user-stars",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "clone-org",
+          "description": "Extension script to clone all repositories in an organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-31T20:06:44Z",
+            "owner": "matt-bartel",
+            "repo": "gh-clone-org",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "changelog",
+          "description": "Extension for creating changelogs that adhere to the keep a changelog specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-27T21:44:20Z",
+            "owner": "chelnak",
+            "repo": "gh-changelog",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "download",
+          "description": "Extension to download folders/files without cloning the repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-04-03T02:51:38Z",
+            "owner": "yuler",
+            "repo": "gh-download",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repo-explore",
+          "description": "Extension to interactively explore a repo without cloning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-12-11T12:03:05Z",
+            "owner": "samcoe",
+            "repo": "gh-repo-explore",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fire",
+          "description": "Extention that helps in the event of an emergency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-09T19:48:52Z",
+            "owner": "maximousblk",
+            "repo": "gh-fire",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fzrepo",
+          "description": "Extension for GitHub CLI to browse repositories with fzf.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-02-09T14:00:22Z",
+            "owner": "sheepla",
+            "repo": "gh-fzrepo",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "releaser",
+          "description": "Extension to simplify starting and closing releases in GitFlow-based projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-07T16:24:20Z",
+            "owner": "carlsberg",
+            "repo": "gh-releaser",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "describe",
+          "description": "Emulate in shallow clone repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-20T02:11:56Z",
+            "owner": "proudust",
+            "repo": "gh-describe",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "difftool",
+          "description": "Launches a difftool to show the differences of a pull request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T00:12:36Z",
+            "owner": "speedyleion",
+            "repo": "gh-difftool",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "semver",
+          "description": "This GitHub CLI extension can be used determine the semantic version to release.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-02-12T14:56:27Z",
+            "owner": "koozz",
+            "repo": "gh-semver",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timer",
+          "description": "Extension that runs a timer or stopwatch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-09-18T06:02:39Z",
+            "owner": "anmalkov",
+            "repo": "gh-timer",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gp",
+          "description": "Extension to work with GitHub repositories with Gitpod.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-10-23T13:24:02Z",
+            "owner": "gitpod-io",
+            "repo": "gh-gp",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "collab-scanner",
+          "description": "Extension that displays collaboration-related information about a repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T23:42:36Z",
+            "owner": "nicokosi",
+            "repo": "gh-collab-scanner",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resto",
+          "description": "a CLI app to send HTTP and API requests with beautiful TUI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-01-03T18:57:42Z",
+            "owner": "abdfnx",
+            "repo": "gh-resto",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "workon",
+          "description": "Create a branch or a commit message from an issue title and assign yourself to it.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-02-14T15:29:20Z",
+            "owner": "chmouel",
+            "repo": "gh-workon",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cl",
+          "description": "Get changelog of npm packages fastly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-09-27T07:32:17Z",
+            "owner": "tmkx",
+            "repo": "gh-cl",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "home",
+          "description": "GitHub CLI extension to checkout main and pull.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-05-13T03:24:20Z",
+            "owner": "norwd",
+            "repo": "gh-home",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "validate-repo",
+          "description": "Extension that validates a cloned reposiory against a list of checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-03-06T04:23:51Z",
+            "owner": "govindsme",
+            "repo": "gh-validate-repo",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "akf",
+          "description": "The AI native file format. Stamp files with trust scores, provenance, and compliance metadata. Certify changed files, generate trust reports for PRs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-04T07:39:09Z",
+            "owner": "HMAKT99",
+            "repo": "gh-akf",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lockvet",
+          "description": "Vet the PR you're standing in for dependency risk: reads lockfile changes (36 formats) and flags vulnerabilities, malware shapes, typosquats and tampering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T04:10:44Z",
+            "owner": "matteo-sung",
+            "repo": "gh-lockvet",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "py",
+          "description": "Write gh extensions from python, that's portable, with full support for installing packages.",
+          "children": []
+        }
+      ],
+      "title": "Tool"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "screensaver",
+          "description": "Extension that runs animated terminal \"screensavers\".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-12T19:55:51Z",
+            "owner": "vilmibm",
+            "repo": "gh-screensaver",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graph",
+          "description": "Display GitHub contribution graph in your terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-04T11:26:37Z",
+            "owner": "kawarimidoll",
+            "repo": "gh-graph",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ost",
+          "description": "Extension to meet ghost, boo!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-29T23:25:30Z",
+            "owner": "mattn",
+            "repo": "gh-ost",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "userfetch",
+          "description": "Extension for GitHub CLI to show your GitHub profile.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2021-09-18T17:42:45Z",
+            "owner": "sheepla",
+            "repo": "gh-userfetch",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contribs",
+          "description": "Show Github contribution graph via cli",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-12-28T01:19:05Z",
+            "owner": "MintArchit",
+            "repo": "gh-contribs",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "contrib",
+          "description": "Extension to render your contribution graph in the terminal.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-01-03T18:06:52Z",
+            "owner": "mislav",
+            "repo": "gh-contrib",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oblique",
+          "description": "Extension that prints one of the oblique strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-11T20:24:16Z",
+            "owner": "vilmibm",
+            "repo": "gh-oblique",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bofh",
+          "description": "Because you need a BOFH inside GH.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-27T20:14:26Z",
+            "owner": "fundor333",
+            "repo": "gh-bofh",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chat",
+          "description": "Chatting in the github cli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-03-27T23:48:29Z",
+            "owner": "vilmibm",
+            "repo": "gh-chat",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inspire",
+          "description": "Get inspiration quotes from github cli.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-11-07T04:21:51Z",
+            "owner": "lakuapik",
+            "repo": "gh-inspire",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Fun"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:08:02.321Z",
+    "original_repository": "kodepandai/awesome-gh-cli-extensions",
+    "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
+    "enhanced_repository": "enhansome/enhansome-gh-cli-extensions",
+    "enhanced_repository_description": null,
+    "title": "Awesome Github CLI Extensions with stars"
+  }
+}
