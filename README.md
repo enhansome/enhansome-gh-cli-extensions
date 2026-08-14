@@ -18,22 +18,22 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Git
 
-* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,001 | 🐛 8 | 🌐 Go | 📅 2026-07-26 - Safely clean up your local branches.
+* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,003 | 🐛 8 | 🌐 Go | 📅 2026-07-26 - Safely clean up your local branches.
 * [**branch**](https://github.com/mislav/gh-branch) ⭐ 274 | 🐛 3 | 🌐 Shell | 📅 2024-07-16 - Extension for fuzzy finding, quickly switching between and deleting branches.
 * [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) ⭐ 189 | 🐛 1 | 🌐 Shell | 📅 2026-06-19 - Safely delete local branches that have no remotes and no hanging changes.
-* [**tidy**](https://github.com/HaywardMorihara/gh-tidy) ⭐ 62 | 🐛 16 | 🌐 Shell | 📅 2026-04-30 - Extension for tidying your Git workspace.
+* [**tidy**](https://github.com/HaywardMorihara/gh-tidy) ⭐ 62 | 🐛 15 | 🌐 Shell | 📅 2026-08-14 - Extension for tidying your Git workspace.
 * [**subrepo**](https://github.com/teaglebuilt/gh-subrepo) ⭐ 0 | 🐛 10 | 🌐 Go | 📅 2025-11-24 - Extension for managing git submodules
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,302 | 🐛 95 | 🌐 Go | 📅 2026-08-01 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,305 | 🐛 96 | 🌐 Go | 📅 2026-08-01 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 478 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 475 | 🐛 213 | 🌐 C# | 📅 2026-08-13 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
-* [**token**](https://github.com/Link-/gh-token) ⭐ 412 | 🐛 13 | 🌐 Go | 📅 2026-08-03 - Create an installation access token for a GitHub app from your terminal.
+* [**token**](https://github.com/Link-/gh-token) ⭐ 413 | 🐛 13 | 🌐 Go | 📅 2026-08-03 - Create an installation access token for a GitHub app from your terminal.
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 349 | 🐛 11 | 🌐 Shell | 📅 2026-07-22 - Extension to display GitHub notifications.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
-* [**image**](https://github.com/drogers0/gh-image) ⭐ 217 | 🐛 15 | 🌐 Go | 📅 2026-08-11 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
+* [**image**](https://github.com/drogers0/gh-image) ⭐ 219 | 🐛 15 | 🌐 Go | 📅 2026-08-11 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
 * [**profile**](https://github.com/gabe565/gh-profile) ⚠️ Archived - Extension that allows you to use multiple GitHub accounts with the gh cli.
 * [**sql**](https://github.com/KOBA789/gh-sql) ⭐ 134 | 🐛 3 | 🌐 Rust | 📅 2023-06-19 - Query GitHub Projects (beta) with SQL.
 * [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) ⭐ 120 | 🐛 3 | 🌐 Go | 📅 2025-10-28 - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
@@ -43,7 +43,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) ⭐ 86 | 🐛 1 | 🌐 Go | 📅 2022-07-11 - Set and get github user statuses.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) ⭐ 82 | 🐛 3 | 🌐 Go | 📅 2026-02-15 - GitHub CLI extension for managing milestones.
 * [**label**](https://github.com/heaths/gh-label) ⭐ 68 | 🐛 2 | 🌐 Go | 📅 2022-01-20 - Extension for issue label management.
-* [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 63 | 🐛 11 | 🌐 Go | 📅 2026-08-13 - Extension for bumping version of a repository.
+* [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 63 | 🐛 12 | 🌐 Go | 📅 2026-08-14 - Extension for bumping version of a repository.
 * [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 62 | 🐛 0 | 🌐 Go | 📅 2026-08-13 - Extension that provides summary pull request metrics.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2023-07-10 - Extension to manage repository collaborators.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) ⭐ 54 | 🐛 2 | 🌐 Lua | 📅 2023-05-01 - Explore GitHub repos using xplr via GitHub CLI.
@@ -62,7 +62,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**watch**](https://github.com/justincampbell/gh-watch) ⭐ 3 | 🐛 1 | 🌐 Go | 📅 2026-07-16 - Watch GitHub resources (PRs, commits, branches) for state changes.
 * [**gitignore**](https://github.com/garnertb/gh-gitignore) ⚠️ Archived - Load gitignore files from GitHub into your project.
 * [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
-* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2026-08-12 - Extract TODO-style comments from pull request diffs.
+* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-08-12 - Extract TODO-style comments from pull request diffs.
 * [**dep-risk**](https://github.com/rad1092/gh-dep-risk) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-06-10 - Extension for on-demand npm dependency pull request risk review.
 * [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 * [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
@@ -77,7 +77,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Tool
 
-* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 875 | 🐛 9 | 🌐 Go | 📅 2026-05-21 - GitHub CLI extension to preview Markdown looks like GitHub.
+* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 877 | 🐛 9 | 🌐 Go | 📅 2026-05-21 - GitHub CLI extension to preview Markdown looks like GitHub.
 * [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 411 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) ⭐ 389 | 🐛 0 | 🌐 Shell | 📅 2025-09-23 - The ultimate compact fzf gh extension.
 * [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 233 | 🐛 2 | 🌐 Go | 📅 2025-10-22 - Print lines matching a pattern in repositories using GitHub API.
