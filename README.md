@@ -26,14 +26,14 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,305 | 🐛 96 | 🌐 Go | 📅 2026-08-01 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,309 | 🐛 96 | 🌐 Go | 📅 2026-08-01 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 478 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 475 | 🐛 213 | 🌐 C# | 📅 2026-08-13 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 476 | 🐛 213 | 🌐 C# | 📅 2026-08-15 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 413 | 🐛 13 | 🌐 Go | 📅 2026-08-03 - Create an installation access token for a GitHub app from your terminal.
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 349 | 🐛 11 | 🌐 Shell | 📅 2026-07-22 - Extension to display GitHub notifications.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
-* [**image**](https://github.com/drogers0/gh-image) ⭐ 219 | 🐛 15 | 🌐 Go | 📅 2026-08-11 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
+* [**image**](https://github.com/drogers0/gh-image) ⭐ 221 | 🐛 15 | 🌐 Go | 📅 2026-08-11 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
 * [**profile**](https://github.com/gabe565/gh-profile) ⚠️ Archived - Extension that allows you to use multiple GitHub accounts with the gh cli.
 * [**sql**](https://github.com/KOBA789/gh-sql) ⭐ 134 | 🐛 3 | 🌐 Rust | 📅 2023-06-19 - Query GitHub Projects (beta) with SQL.
 * [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) ⭐ 120 | 🐛 3 | 🌐 Go | 📅 2025-10-28 - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
@@ -49,12 +49,12 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) ⭐ 54 | 🐛 2 | 🌐 Lua | 📅 2023-05-01 - Explore GitHub repos using xplr via GitHub CLI.
 * [**actions-status**](https://github.com/rsese/gh-actions-status) ⭐ 53 | 🐛 1 | 🌐 Go | 📅 2023-05-15 - An extension to view the overall health of an organization's use of actions.
 * [**stars**](https://github.com/aymanbagabas/gh-stars) ⭐ 53 | 🐛 4 | 🌐 Go | 📅 2023-11-06 - GitHub stargazers in your terminal.
-* [**attach**](https://github.com/sudosubin/gh-attach) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2026-08-13 - Upload files to GitHub user-attachments and get a URL from the terminal.
+* [**attach**](https://github.com/sudosubin/gh-attach) ⭐ 36 | 🐛 0 | 🌐 Go | 📅 2026-08-15 - Upload files to GitHub user-attachments and get a URL from the terminal.
 * [**look**](https://github.com/LangLangBart/gh-look) ⭐ 19 | 🐛 0 | 🌐 Shell | 📅 2026-07-20 - Interactive gh tool: drop an emoji, write comments, star repositories, etc.
 * [**hook**](https://github.com/lucasmelin/gh-hook) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2023-03-10 - Extension to easily manage your github repository webhooks.
 * [**ls**](https://github.com/wuwe1/gh-ls) ⭐ 12 | 🐛 1 | 🌐 Shell | 📅 2023-03-09 - GitHub CLI to list contents of GitHub repo.
 * [**reaction**](https://github.com/ccoVeille/gh-reaction) ⭐ 11 | 🐛 14 | 🌐 Go | 📅 2026-07-21 - View recent GitHub emoji reactions on your posts and repositories, or someone else's.
-* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 3 | 🌐 Go | 📅 2026-08-13 - Pull, push and check status on multiple GitHub repositories at once.
+* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 3 | 🌐 Go | 📅 2026-08-15 - Pull, push and check status on multiple GitHub repositories at once.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2023-03-18 - View all open pull requests you have created.
 * [**get-asset**](https://github.com/chmouel/gh-get-asset) ⚠️ Archived - Fetch an asset (ie: binary) from a GitHub release.
 * [**org-users**](https://github.com/yermulnik/gh-org-users) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2022-07-19 - GH CLI extension to list all GitHub Org users.
@@ -95,14 +95,14 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**semver**](https://github.com/koozz/gh-semver) ⚠️ Archived - This GitHub CLI extension can be used determine the semantic version to release.
 * [**timer**](https://github.com/anmalkov/gh-timer) ⭐ 13 | 🐛 1 | 🌐 Shell | 📅 2021-09-18 - Extension that runs a timer or stopwatch.
 * [**gp**](https://github.com/gitpod-io/gh-gp) ⚠️ Archived - Extension to work with GitHub repositories with Gitpod.
-* [**collab-scanner**](https://github.com/nicokosi/gh-collab-scanner) ⭐ 7 | 🐛 2 | 🌐 Go | 📅 2026-08-13 - Extension that displays collaboration-related information about a repository.
+* [**collab-scanner**](https://github.com/nicokosi/gh-collab-scanner) ⭐ 7 | 🐛 1 | 🌐 Go | 📅 2026-08-15 - Extension that displays collaboration-related information about a repository.
 * [**resto**](https://github.com/abdfnx/gh-resto) ⭐ 7 | 🐛 3 | 🌐 Shell | 📅 2022-01-03 - a CLI app to send HTTP and API requests with beautiful TUI.
 * [**workon**](https://github.com/chmouel/gh-workon/) ⚠️ Archived - Create a branch or a commit message from an issue title and assign yourself to it.
 * [**cl**](https://github.com/tmkx/gh-cl) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2025-09-27 - Get changelog of npm packages fastly.
 * [**home**](https://github.com/norwd/gh-home) ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-05-13 - GitHub CLI extension to checkout main and pull.
 * [**validate-repo**](https://github.com/govindsme/gh-validate-repo) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2023-03-06 - Extension that validates a cloned reposiory against a list of checks.
 * [**akf**](https://github.com/HMAKT99/gh-akf) ⭐ 1 | 🐛 0 | 🌐 Shell | 📅 2026-07-04 - The AI native file format. Stamp files with trust scores, provenance, and compliance metadata. Certify changed files, generate trust reports for PRs.
-* [**lockvet**](https://github.com/matteo-sung/gh-lockvet) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-08 - Vet the PR you're standing in for dependency risk: reads lockfile changes (36 formats) and flags vulnerabilities, malware shapes, typosquats and tampering.
+* [**lockvet**](https://github.com/matteo-sung/gh-lockvet) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-15 - Vet the PR you're standing in for dependency risk: reads lockfile changes (36 formats) and flags vulnerabilities, malware shapes, typosquats and tampering.
 * [**py**](https://github.com/JessicaTegner/gh-py) - Write gh extensions from python, that's portable, with full support for installing packages.
 
 ## Fun
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

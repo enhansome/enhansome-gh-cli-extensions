@@ -90,7 +90,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12305
+            "stars": 12309
           }
         },
         {
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T22:30:03Z",
+            "last_commit": "2026-08-15T00:21:13Z",
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 475
+            "stars": 476
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-11T22:07:32Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 219
+            "stars": 221
           }
         },
         {
@@ -409,7 +409,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T10:15:40Z",
+            "last_commit": "2026-08-15T13:17:01Z",
             "owner": "sudosubin",
             "repo": "gh-attach",
             "stars": 36
@@ -479,7 +479,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T17:05:30Z",
+            "last_commit": "2026-08-15T04:38:02Z",
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9
@@ -981,7 +981,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:42:36Z",
+            "last_commit": "2026-08-15T13:59:52Z",
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7
@@ -1079,7 +1079,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-08T04:10:44Z",
+            "last_commit": "2026-08-15T19:12:00Z",
             "owner": "matteo-sung",
             "repo": "gh-lockvet",
             "stars": 0
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T23:48:12.738Z",
+    "last_updated": "2026-08-15T23:45:30.376Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
     "enhanced_repository": "enhansome/enhansome-gh-cli-extensions",
