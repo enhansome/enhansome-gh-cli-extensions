@@ -14,7 +14,7 @@
             "last_commit": "2026-07-26T05:56:29Z",
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1003
+            "stars": 1004
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12309
+            "stars": 12313
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2026-08-11T22:07:32Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 221
+            "stars": 222
           }
         },
         {
@@ -1242,7 +1242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T23:45:30.376Z",
+    "last_updated": "2026-08-16T23:44:52.524Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
     "enhanced_repository": "enhansome/enhansome-gh-cli-extensions",
