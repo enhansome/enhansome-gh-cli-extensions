@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12326
+            "stars": 12329
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2022-09-15T21:35:01Z",
             "owner": "github",
             "repo": "gh-net",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2024-10-21T16:20:06Z",
             "owner": "actions",
             "repo": "gh-actions-cache",
-            "stars": 333
+            "stars": 334
           }
         },
         {
@@ -198,10 +198,10 @@
             "archived": false,
             "id": 1193240669,
             "language": "Go",
-            "last_commit": "2026-08-17T22:58:17Z",
+            "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 228
+            "stars": 230
           }
         },
         {
@@ -216,7 +216,7 @@
             "last_commit": "2024-01-15T21:39:55Z",
             "owner": "gabe565",
             "repo": "gh-profile",
-            "stars": 148
+            "stars": 149
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-02-15T11:10:07Z",
             "owner": "valeriobelli",
             "repo": "gh-milestone",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 401330642,
             "language": "Go",
-            "last_commit": "2026-08-17T12:39:37Z",
+            "last_commit": "2026-08-19T22:09:34Z",
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
             "stars": 63
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-13T11:14:33Z",
             "owner": "hectcastro",
             "repo": "gh-metrics",
-            "stars": 62
+            "stars": 63
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 698624657,
             "language": "Go",
-            "last_commit": "2026-08-15T04:38:02Z",
+            "last_commit": "2026-08-19T16:54:23Z",
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9
@@ -828,7 +828,7 @@
             "last_commit": "2025-10-22T12:00:08Z",
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "archived": false,
             "id": 461732561,
             "language": "Go",
-            "last_commit": "2026-08-18T14:45:58Z",
+            "last_commit": "2026-08-19T22:10:20Z",
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7
@@ -1224,7 +1224,7 @@
             "last_commit": "2021-09-18T17:42:45Z",
             "owner": "sheepla",
             "repo": "gh-userfetch",
-            "stars": 75
+            "stars": 76
           }
         },
         {
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:30:47.476Z",
+    "last_updated": "2026-08-19T23:47:28.768Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
