@@ -15,7 +15,7 @@
             "last_commit": "2026-07-26T05:56:29Z",
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1003
+            "stars": 1004
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12329
+            "stars": 12330
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 416855086,
             "language": "C#",
-            "last_commit": "2026-08-17T21:35:07Z",
+            "last_commit": "2026-08-20T18:11:26Z",
             "owner": "github",
             "repo": "gh-gei",
             "stars": 476
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 230
+            "stars": 234
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 472937449,
             "language": "Go",
-            "last_commit": "2026-08-13T11:14:33Z",
+            "last_commit": "2026-08-20T11:07:09Z",
             "owner": "hectcastro",
             "repo": "gh-metrics",
             "stars": 63
@@ -441,7 +441,7 @@
             "last_commit": "2026-08-15T13:17:01Z",
             "owner": "sudosubin",
             "repo": "gh-attach",
-            "stars": 36
+            "stars": 37
           }
         },
         {
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 698624657,
             "language": "Go",
-            "last_commit": "2026-08-19T16:54:23Z",
+            "last_commit": "2026-08-20T05:46:51Z",
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9
@@ -783,7 +783,7 @@
             "last_commit": "2026-05-21T07:33:02Z",
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 879
+            "stars": 880
           }
         },
         {
@@ -798,7 +798,7 @@
             "last_commit": "2025-08-20T11:48:41Z",
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -1050,7 +1050,7 @@
             "archived": false,
             "id": 461732561,
             "language": "Go",
-            "last_commit": "2026-08-19T22:10:20Z",
+            "last_commit": "2026-08-20T06:12:39Z",
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:47:28.768Z",
+    "last_updated": "2026-08-20T23:51:08.221Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
