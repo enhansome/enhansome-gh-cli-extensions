@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12330
+            "stars": 12333
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 234
+            "stars": 238
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 401330642,
             "language": "Go",
-            "last_commit": "2026-08-19T22:09:34Z",
+            "last_commit": "2026-08-21T16:16:17Z",
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
             "stars": 63
@@ -513,7 +513,7 @@
             "archived": false,
             "id": 698624657,
             "language": "Go",
-            "last_commit": "2026-08-20T05:46:51Z",
+            "last_commit": "2026-08-21T16:12:45Z",
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 1040640161,
             "language": "Go",
-            "last_commit": "2026-08-19T11:30:11Z",
+            "last_commit": "2026-08-21T22:44:49Z",
             "owner": "Suree33",
             "repo": "gh-pr-todo",
             "stars": 1
@@ -1050,7 +1050,7 @@
             "archived": false,
             "id": 461732561,
             "language": "Go",
-            "last_commit": "2026-08-20T06:12:39Z",
+            "last_commit": "2026-08-21T15:57:12Z",
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:51:08.221Z",
+    "last_updated": "2026-08-21T23:49:28.319Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
