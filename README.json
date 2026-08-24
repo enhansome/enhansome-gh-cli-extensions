@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12379
+            "stars": 12386
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -591,7 +591,7 @@
             "last_commit": "2026-08-18T18:57:45Z",
             "owner": "justincampbell",
             "repo": "gh-watch",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:11.925Z",
+    "last_updated": "2026-08-24T23:46:48.606Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
