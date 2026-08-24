@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12372
+            "stars": 12379
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 360687334,
             "language": "Go",
-            "last_commit": "2026-08-17T11:53:08Z",
+            "last_commit": "2026-08-24T11:53:16Z",
             "owner": "Link-",
             "repo": "gh-token",
             "stars": 413
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 241
+            "stars": 242
           }
         },
         {
@@ -990,7 +990,7 @@
             "archived": false,
             "id": 547001641,
             "language": "Rust",
-            "last_commit": "2026-08-23T23:19:39Z",
+            "last_commit": "2026-08-24T06:47:42Z",
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:45:48.410Z",
+    "last_updated": "2026-08-24T14:29:11.925Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
