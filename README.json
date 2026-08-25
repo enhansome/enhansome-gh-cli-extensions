@@ -30,7 +30,7 @@
             "last_commit": "2024-07-16T05:36:27Z",
             "owner": "mislav",
             "repo": "gh-branch",
-            "stars": 274
+            "stars": 275
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12386
+            "stars": 12388
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 243
+            "stars": 244
           }
         },
         {
@@ -1103,7 +1103,7 @@
         },
         {
           "node_type": "item",
-          "title": "home",
+          "title": "norwd/gh-home",
           "description": "GitHub CLI extension to checkout main and pull.",
           "children": [],
           "repo_info": {
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:46:48.606Z",
+    "last_updated": "2026-08-25T06:17:00.290Z",
     "original_repository": "kodepandai/awesome-gh-cli-extensions",
     "original_repository_id": 413409107,
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
