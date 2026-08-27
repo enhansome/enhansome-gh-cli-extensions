@@ -96,7 +96,7 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12418
+            "stars": 12422
           }
         },
         {
@@ -813,7 +813,7 @@
             "last_commit": "2025-09-23T10:24:09Z",
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -1322,9 +1322,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:38:04.986Z",
-    "original_repository": "kodepandai/awesome-gh-cli-extensions",
-    "original_repository_id": 413409107,
+    "last_updated": "2026-08-27T11:39:50.992Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 413409107,
+      "language": "HTML",
+      "last_commit": "2026-08-11T03:39:26Z",
+      "owner": "kodepandai",
+      "repo": "awesome-gh-cli-extensions",
+      "stars": 431
+    },
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
     "enhanced_repository": "enhansome/enhansome-gh-cli-extensions",
     "enhanced_repository_description": null,
