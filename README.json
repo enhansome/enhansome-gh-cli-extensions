@@ -15,8 +15,9 @@
             "last_commit": "2026-07-26T05:56:29Z",
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1005
-          }
+            "stars": 1006
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mislav",
             "repo": "gh-branch",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "davidraviv",
             "repo": "gh-clean-branches",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "HaywardMorihara",
             "repo": "gh-tidy",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "teaglebuilt",
             "repo": "gh-subrepo",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         }
       ],
       "title": "Git"
@@ -96,8 +101,9 @@
             "last_commit": "2026-08-01T12:50:44Z",
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12422
-          }
+            "stars": 12430
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "jrnxf",
             "repo": "gh-eco",
             "stars": 478
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "github",
             "repo": "gh-gei",
             "stars": 477
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "Link-",
             "repo": "gh-token",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "meiji163",
             "repo": "gh-notify",
             "stars": 349
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "github",
             "repo": "gh-net",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "actions",
             "repo": "gh-actions-cache",
             "stars": 333
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -201,8 +213,9 @@
             "last_commit": "2026-08-19T15:10:08Z",
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 245
-          }
+            "stars": 251
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "gabe565",
             "repo": "gh-profile",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "KOBA789",
             "repo": "gh-sql",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "rnorth",
             "repo": "gh-combine-prs",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "mislav",
             "repo": "gh-cp",
             "stars": 111
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "github",
             "repo": "gh-projects",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "vilmibm",
             "repo": "gh-user-status",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "valeriobelli",
             "repo": "gh-milestone",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "heaths",
             "repo": "gh-label",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -363,11 +386,12 @@
             "archived": false,
             "id": 472937449,
             "language": "Go",
-            "last_commit": "2026-08-20T11:07:09Z",
+            "last_commit": "2026-08-28T03:23:46Z",
             "owner": "hectcastro",
             "repo": "gh-metrics",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "mislav",
             "repo": "gh-repo-collab",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "aymanbagabas",
             "repo": "gh-stars",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "sayanarijit",
             "repo": "gh-xplr",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "rsese",
             "repo": "gh-actions-status",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "sudosubin",
             "repo": "gh-attach",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "LangLangBart",
             "repo": "gh-look",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "lucasmelin",
             "repo": "gh-hook",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "wuwe1",
             "repo": "gh-ls",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "ccoVeille",
             "repo": "gh-reaction",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "AaronMoat",
             "repo": "gh-pulls",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "ChrisCarini",
             "repo": "gh-copilot-review",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "chmouel",
             "repo": "gh-get-asset",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "yermulnik",
             "repo": "gh-org-users",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "justincampbell",
             "repo": "gh-watch",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "garnertb",
             "repo": "gh-gitignore",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "scttfrdmn",
             "repo": "gh-label-sync",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "Suree33",
             "repo": "gh-pr-todo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -652,7 +694,8 @@
             "owner": "rad1092",
             "repo": "gh-dependency-risk",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -667,7 +710,8 @@
             "owner": "scttfrdmn",
             "repo": "gh-milestone-manager",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -682,7 +726,8 @@
             "owner": "outagedeck",
             "repo": "gh-outagedeck",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         }
       ],
       "title": "Github"
@@ -703,7 +748,8 @@
             "owner": "github",
             "repo": "gh-classroom",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "gh-cli-for-education",
             "repo": "gh-org-clone",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "gh-cli-for-education",
             "repo": "gh-org-teams",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "gh-cli-for-education",
             "repo": "gh-org-browse-repo",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "gh-cli-for-education",
             "repo": "gh-org-members",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         }
       ],
       "title": "GitHub Education"
@@ -784,7 +834,8 @@
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
             "stars": 880
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
             "stars": 413
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "k1LoW",
             "repo": "gh-grep",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "redraw",
             "repo": "gh-install",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "korosuke613",
             "repo": "gh-user-stars",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
             "stars": 147
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "chelnak",
             "repo": "gh-changelog",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "yuler",
             "repo": "gh-download",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "samcoe",
             "repo": "gh-repo-explore",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "maximousblk",
             "repo": "gh-fire",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "sheepla",
             "repo": "gh-fzrepo",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "carlsberg",
             "repo": "gh-releaser",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "proudust",
             "repo": "gh-describe",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1074,8 @@
             "owner": "koozz",
             "repo": "gh-semver",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "anmalkov",
             "repo": "gh-timer",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "gitpod-io",
             "repo": "gh-gp",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "abdfnx",
             "repo": "gh-resto",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1154,8 @@
             "owner": "chmouel",
             "repo": "gh-workon",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "tmkx",
             "repo": "gh-cl",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "norwd",
             "repo": "gh-home",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "govindsme",
             "repo": "gh-validate-repo",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "HMAKT99",
             "repo": "gh-akf",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "matteo-sung",
             "repo": "gh-lockvet",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         }
       ],
       "title": "Tool"
@@ -1180,7 +1256,8 @@
             "owner": "vilmibm",
             "repo": "gh-screensaver",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1195,7 +1272,8 @@
             "owner": "kawarimidoll",
             "repo": "gh-graph",
             "stars": 140
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1210,7 +1288,8 @@
             "owner": "mattn",
             "repo": "gh-ost",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1225,7 +1304,8 @@
             "owner": "sheepla",
             "repo": "gh-userfetch",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1240,7 +1320,8 @@
             "owner": "MintArchit",
             "repo": "gh-contribs",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1255,7 +1336,8 @@
             "owner": "mislav",
             "repo": "gh-contrib",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1270,7 +1352,8 @@
             "owner": "vilmibm",
             "repo": "gh-oblique",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1285,7 +1368,8 @@
             "owner": "fundor333",
             "repo": "gh-bofh",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1300,7 +1384,8 @@
             "owner": "vilmibm",
             "repo": "gh-chat",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         },
         {
           "node_type": "item",
@@ -1315,14 +1400,15 @@
             "owner": "lakuapik",
             "repo": "gh-inspire",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
         }
       ],
       "title": "Fun"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:50.992Z",
+    "last_updated": "2026-08-28T07:00:45.957Z",
     "original_repository_info": {
       "archived": false,
       "id": 413409107,
