@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✨ Safely clean up your local branches",
+            "homepage": "https://dev.to/seachicken/safely-clean-up-your-local-branches-9i3",
             "id": 412209066,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-26T05:56:29Z",
+            "open_issues": 8,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1006
+            "stars": 1008,
+            "topics": [
+              "cli",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -26,12 +34,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for fuzzy finding, quickly switching between and deleting branches.",
+            "homepage": null,
             "id": 395014404,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2024-07-16T05:36:27Z",
+            "open_issues": 3,
             "owner": "mislav",
             "repo": "gh-branch",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "fzf",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -42,12 +58,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safely deletes local branches with no upstream and no un-pushed commits",
+            "homepage": null,
             "id": 399725759,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-19T16:50:57Z",
+            "open_issues": 1,
             "owner": "davidraviv",
             "repo": "gh-clean-branches",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "git-branches",
+              "local-environment"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -58,12 +84,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github CLI extension for cleaning up your Git workspace to get ready for the day!",
+            "homepage": null,
             "id": 400492517,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-08-14T02:59:02Z",
+            "open_issues": 15,
             "owner": "HaywardMorihara",
             "repo": "gh-tidy",
-            "stars": 62
+            "stars": 63,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -74,12 +107,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gh cli extension for managing git submodules",
+            "homepage": null,
             "id": 956106831,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-24T18:08:02Z",
+            "open_issues": 10,
             "owner": "teaglebuilt",
             "repo": "gh-subrepo",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "gh-cli",
+              "gh-extension",
+              "git-submodule",
+              "github-cli",
+              "github-cli-extension",
+              "submodule"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         }
@@ -96,12 +141,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rich terminal UI for GitHub that doesn't break your flow.",
+            "homepage": "https://gh-dash.dev",
             "id": 417230885,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-01T12:50:44Z",
+            "open_issues": 98,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12430
+            "stars": 12433,
+            "topics": [
+              "bubbles",
+              "bubbletea",
+              "cli",
+              "cobra",
+              "gh-extension",
+              "github",
+              "glamour",
+              "go",
+              "golang",
+              "lipgloss",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -112,12 +175,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦎 gh cli extension to explore the ecosystem",
+            "homepage": null,
             "id": 491784345,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-17T05:34:28Z",
+            "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "go",
+              "golang",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -128,12 +204,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Migration CLI for GitHub to GitHub migrations",
+            "homepage": null,
             "id": 416855086,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-26T17:18:38Z",
+            "open_issues": 216,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 477
+            "stars": 477,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -144,12 +227,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage installation access tokens for GitHub apps from your terminal 💻",
+            "homepage": null,
             "id": 360687334,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T11:53:16Z",
+            "open_issues": 14,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "actions",
+              "apps",
+              "bash",
+              "bash-script",
+              "cli",
+              "enterprise",
+              "gh-extension",
+              "github",
+              "github-token"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -160,12 +258,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to display GitHub notifications",
+            "homepage": null,
             "id": 417606553,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-08-19T10:53:03Z",
+            "open_issues": 11,
             "owner": "meiji163",
             "repo": "gh-notify",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github-api",
+              "notifications"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -176,12 +284,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A network bridge between a Codespace and a local machine.",
+            "homepage": "https://github.com/github/gh-net",
             "id": 470373738,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-15T21:35:01Z",
+            "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "cli",
+              "codespaces",
+              "gh-extension",
+              "network"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -192,12 +310,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A GitHub (gh) CLI extension to manage the GitHub Actions caches being used in a GitHub repository.",
+            "homepage": null,
             "id": 500363954,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-10-21T16:20:06Z",
+            "open_issues": 0,
             "owner": "actions",
             "repo": "gh-actions-cache",
-            "stars": 333
+            "stars": 333,
+            "topics": [
+              "gh-extension",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -208,12 +334,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gh CLI extension that uploads attachments to GitHub from the command line",
+            "homepage": null,
             "id": 1193240669,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T15:10:08Z",
+            "open_issues": 4,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 251
+            "stars": 252,
+            "topics": [
+              "gh-cli",
+              "gh-extension",
+              "gh-issue",
+              "gh-s3-artifact",
+              "github",
+              "github-images",
+              "github-issues",
+              "github-prs"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -224,12 +364,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":octocat: Use multiple GitHub accounts with the gh cli.",
+            "homepage": null,
             "id": 550438540,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-01-15T21:39:55Z",
+            "open_issues": 2,
             "owner": "gabe565",
             "repo": "gh-profile",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "gh-extension",
+              "github-cli"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -240,12 +388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Query GitHub Projects with SQL",
+            "homepage": null,
             "id": 440284256,
             "language": "Rust",
+            "license": null,
             "last_commit": "2023-06-19T05:59:30Z",
+            "open_issues": 3,
             "owner": "KOBA789",
             "repo": "gh-sql",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "github-projects",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -256,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for managing sub-issues (child issues)",
+            "homepage": null,
             "id": 1033684591,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-28T13:29:25Z",
+            "open_issues": 3,
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -272,12 +436,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one.",
+            "homepage": null,
             "id": 402397326,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-20T19:01:28Z",
+            "open_issues": 7,
             "owner": "rnorth",
             "repo": "gh-combine-prs",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -288,12 +459,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to copy a file from a GitHub repository locally without cloning the repository.",
+            "homepage": null,
             "id": 425940116,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2021-11-08T18:00:37Z",
+            "open_issues": 2,
             "owner": "mislav",
             "repo": "gh-cp",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -304,12 +482,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "gh-projects",
+            "homepage": null,
             "id": 583452121,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-06-21T16:36:10Z",
+            "open_issues": 2,
             "owner": "github",
             "repo": "gh-projects",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -320,12 +505,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "set and get github user statuses",
+            "homepage": null,
             "id": 385701913,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2022-07-11T21:00:11Z",
+            "open_issues": 1,
             "owner": "vilmibm",
             "repo": "gh-user-status",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -336,12 +528,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for managing Milestones",
+            "homepage": null,
             "id": 485467509,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-02-15T11:10:07Z",
+            "open_issues": 4,
             "owner": "valeriobelli",
             "repo": "gh-milestone",
-            "stars": 83
+            "stars": 83,
+            "topics": [
+              "cli",
+              "gh",
+              "gh-extension",
+              "github",
+              "golang",
+              "milestones"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -352,12 +556,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for label management",
+            "homepage": null,
             "id": 399642135,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-01-20T08:47:18Z",
+            "open_issues": 2,
             "owner": "heaths",
             "repo": "gh-label",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "cli",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -368,12 +580,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gh extension for bumping version of a repository",
+            "homepage": null,
             "id": 401330642,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T16:16:17Z",
+            "open_issues": 12,
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -384,12 +607,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub CLI extension that provides summary pull request metrics.",
+            "homepage": null,
             "id": 472937449,
             "language": "Go",
-            "last_commit": "2026-08-28T03:23:46Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T14:13:35Z",
+            "open_issues": 0,
             "owner": "hectcastro",
             "repo": "gh-metrics",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "gh-extension",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -400,12 +631,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to manage repository collaborators",
+            "homepage": null,
             "id": 431592859,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-07-10T15:44:57Z",
+            "open_issues": 5,
             "owner": "mislav",
             "repo": "gh-repo-collab",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -416,12 +654,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub stargazers in your terminal 🌟",
+            "homepage": null,
             "id": 528055132,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-11-06T13:02:09Z",
+            "open_issues": 4,
             "owner": "aymanbagabas",
             "repo": "gh-stars",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "bubbletea",
+              "cli",
+              "gh-cli",
+              "gh-extension",
+              "gh-extensions"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -432,12 +681,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Explore GitHub repos using xplr via GitHub CLI",
+            "homepage": "https://xplr.dev",
             "id": 498448512,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2023-05-01T05:14:53Z",
+            "open_issues": 2,
             "owner": "sayanarijit",
             "repo": "gh-xplr",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "cli",
+              "command-line",
+              "gh-extension",
+              "github",
+              "terminal",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -448,12 +709,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to view the overall health of an organization's use of actions.",
+            "homepage": null,
             "id": 394818109,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-05-15T04:12:00Z",
+            "open_issues": 1,
             "owner": "rsese",
             "repo": "gh-actions-status",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -464,12 +732,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A GitHub CLI extension that uploads files to GitHub attachments.",
+            "homepage": null,
             "id": 1163121569,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T13:17:01Z",
+            "open_issues": 0,
             "owner": "sudosubin",
             "repo": "gh-attach",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -480,12 +758,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive gh tool",
+            "homepage": null,
             "id": 538008733,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-07-20T15:57:45Z",
+            "open_issues": 0,
             "owner": "LangLangBart",
             "repo": "gh-look",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cli",
+              "fzf",
+              "gh-extension",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -496,12 +784,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪝A GitHub CLI extension to easily manage your repository webhooks.",
+            "homepage": null,
             "id": 568169009,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-03-10T02:31:34Z",
+            "open_issues": 0,
             "owner": "lucasmelin",
             "repo": "gh-hook",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "bubbletea",
+              "gh-extension",
+              "github",
+              "github-api",
+              "go",
+              "golang",
+              "webhook",
+              "webhooks"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -512,12 +814,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List contents of GitHub repo",
+            "homepage": null,
             "id": 570906996,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-03-09T03:47:16Z",
+            "open_issues": 1,
             "owner": "wuwe1",
             "repo": "gh-ls",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "cli",
+              "fzf",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -528,12 +839,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to view recent GitHub emoji reactions on your posts and repositories, or someone else's.",
+            "homepage": null,
             "id": 1055743037,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-21T18:50:22Z",
+            "open_issues": 14,
             "owner": "ccoVeille",
             "repo": "gh-reaction",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -544,12 +862,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "github-cli extension allowing to manage multiple github repositories at once",
+            "homepage": "https://pkg.go.dev/github.com/sarumaj/gh-gr/v2",
             "id": 698624657,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-25T21:10:06Z",
+            "open_issues": 3,
             "owner": "sarumaj",
             "repo": "gh-gr",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "gh-cli",
+              "gh-extension",
+              "github-repo",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -560,12 +888,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI (gh) extension to view pull requests you have created that are open. ",
+            "homepage": null,
             "id": 405547932,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-03-18T07:14:09Z",
+            "open_issues": 0,
             "owner": "AaronMoat",
             "repo": "gh-pulls",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -576,12 +911,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension for the `gh` CLI to request code reviews from GitHub Copilot",
+            "homepage": null,
             "id": 987434413,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-12T02:14:44Z",
+            "open_issues": 0,
             "owner": "ChrisCarini",
             "repo": "gh-copilot-review",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gh-extension",
+              "gh-extensions"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -592,12 +935,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "GH extensions to get an asset from a release",
+            "homepage": null,
             "id": 580321690,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-18T06:24:49Z",
+            "open_issues": 1,
             "owner": "chmouel",
             "repo": "gh-get-asset",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gh-extension",
+              "git",
+              "github",
+              "shell-script"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -608,12 +961,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GH CLI extension to list all GitHub Org members",
+            "homepage": null,
             "id": 515664299,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-07-19T16:43:55Z",
+            "open_issues": 0,
             "owner": "yermulnik",
             "repo": "gh-org-users",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -624,12 +984,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watch GitHub resources for state changes",
+            "homepage": null,
             "id": 1209613509,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-18T18:57:45Z",
+            "open_issues": 0,
             "owner": "justincampbell",
             "repo": "gh-watch",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "ci",
+              "claude-code",
+              "claude-code-plugin",
+              "cli",
+              "gh-extension",
+              "github-actions",
+              "github-cli",
+              "monitoring",
+              "pull-request",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -640,12 +1016,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Load gitignore files from GitHub into your project.",
+            "homepage": null,
             "id": 576755172,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-29T16:07:46Z",
+            "open_issues": 0,
             "owner": "garnertb",
             "repo": "gh-gitignore",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "cli",
+              "extension-gh",
+              "gh",
+              "gitignore-cli",
+              "gitignore-files",
+              "gitignore-generator",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -656,12 +1045,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for synchronizing labels across repositories",
+            "homepage": null,
             "id": 1089891866,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-13T00:02:43Z",
+            "open_issues": 0,
             "owner": "scttfrdmn",
             "repo": "gh-label-sync",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "automation",
+              "cli",
+              "csv",
+              "gh-extension",
+              "github-api",
+              "github-cli",
+              "go",
+              "golang",
+              "json",
+              "label-management",
+              "label-sync",
+              "labels",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -672,12 +1080,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to list TODO-style comments in a pull request's diff.",
+            "homepage": null,
             "id": 1040640161,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-23T17:33:00Z",
+            "open_issues": 3,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ci",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -688,12 +1104,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for on-demand PR dependency risk review with Dependency Review API first and static local fallback",
+            "homepage": "https://github.com/rad1092/gh-dependency-risk/releases/latest",
             "id": 1211043445,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-06-10T08:50:23Z",
+            "open_issues": 0,
             "owner": "rad1092",
             "repo": "gh-dependency-risk",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "bun",
+              "dependency-review",
+              "dependency-risk",
+              "gh-extension",
+              "github-cli-extension",
+              "go-modules",
+              "golang",
+              "monorepo",
+              "npm",
+              "pnpm",
+              "poetry",
+              "pull-request-review",
+              "python",
+              "supply-chain-security",
+              "uv",
+              "yarn",
+              "yarn-berry"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -704,12 +1143,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for comprehensive milestone management",
+            "homepage": null,
             "id": 1089888092,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-12-13T00:17:52Z",
+            "open_issues": 0,
             "owner": "scttfrdmn",
             "repo": "gh-milestone-manager",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github-api",
+              "github-cli",
+              "go",
+              "golang",
+              "milestone-management",
+              "milestones",
+              "project-management"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -720,12 +1174,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check GitHub and cloud or SaaS status and set up alerts from GitHub CLI.",
+            "homepage": "https://outagedeck.com/developers/alerts?utm_source=github&utm_medium=repository&utm_campaign=gh_extension&utm_content=repo_homepage",
             "id": 1324465643,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:45:10Z",
+            "open_issues": 0,
             "owner": "outagedeck",
             "repo": "gh-outagedeck",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "cli",
+              "cloud-status",
+              "devops",
+              "gh-extension",
+              "github",
+              "github-cli",
+              "incident-response",
+              "monitoring",
+              "outage-alerts",
+              "outage-monitoring",
+              "sre",
+              "status-page"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         }
@@ -742,12 +1214,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Classroom CLI Extension is a powerful and easy-to-use command line tool that enhances the functionality of the GitHub CLI, specifically tailored for educators using GitHub Classroom. ",
+            "homepage": null,
             "id": 614523021,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-07-14T21:49:36Z",
+            "open_issues": 49,
             "owner": "github",
             "repo": "gh-classroom",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -758,12 +1237,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A github-cli extension script to clone all repositories in an organization, optionally filtering by topic or a search string. If the repository has already been cloned it will attempt to switch to the default branch and pull.",
+            "homepage": null,
             "id": 454734175,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-20T11:43:39Z",
+            "open_issues": 2,
             "owner": "gh-cli-for-education",
             "repo": "gh-org-clone",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "gh-extension",
+              "ull"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -774,12 +1261,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get info about the teams of a GitHub classroom organization",
+            "homepage": null,
             "id": 444471619,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-02-02T12:47:17Z",
+            "open_issues": 2,
             "owner": "gh-cli-for-education",
             "repo": "gh-org-teams",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "gh-extension",
+              "github-education",
+              "ull"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -790,12 +1286,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gh extension to browse multiple repos inside an org",
+            "homepage": null,
             "id": 454735554,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-12T11:39:17Z",
+            "open_issues": 1,
             "owner": "gh-cli-for-education",
             "repo": "gh-org-browse-repo",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "gh-extension",
+              "ull"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -806,12 +1310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gh cli extension to obtain info about the members of a GitHub Organization",
+            "homepage": null,
             "id": 516313626,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-10-12T12:50:37Z",
+            "open_issues": 0,
             "owner": "gh-cli-for-education",
             "repo": "gh-org-members",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         }
@@ -828,12 +1337,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to preview Markdown looks like GitHub.",
+            "homepage": null,
             "id": 419946562,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-21T07:33:02Z",
+            "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 880
+            "stars": 880,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "golang",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -844,12 +1363,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 search github repositories interactively",
+            "homepage": null,
             "id": 453047684,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-20T11:48:41Z",
+            "open_issues": 1,
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
-            "stars": 413
+            "stars": 413,
+            "topics": [
+              "command-line",
+              "gh-extension",
+              "go"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -860,12 +1388,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 the ultimate compact fzf gh extension",
+            "homepage": null,
             "id": 449902797,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2025-09-23T10:24:09Z",
+            "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 390
+            "stars": 391,
+            "topics": [
+              "command-line",
+              "gh-extension",
+              "git",
+              "github",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -876,12 +1415,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":octocat: Print lines matching a pattern in repositories using GitHub API",
+            "homepage": null,
             "id": 422935143,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-22T12:00:08Z",
+            "open_issues": 2,
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 236
+            "stars": 236,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -892,12 +1438,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "install GitHub release binaries from the CLI interactively",
+            "homepage": null,
             "id": 419957139,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-12-09T11:53:19Z",
+            "open_issues": 3,
             "owner": "redraw",
             "repo": "gh-install",
-            "stars": 226
+            "stars": 226,
+            "topics": [
+              "cli",
+              "fzf",
+              "gh-extension",
+              "github",
+              "github-releases"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -908,12 +1465,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Displays an interactive and searchable list of your GitHub starred repositories",
+            "homepage": null,
             "id": 399816425,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-11-15T08:49:08Z",
+            "open_issues": 4,
             "owner": "korosuke613",
             "repo": "gh-user-stars",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "gh-extension",
+              "shellscript"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -924,12 +1489,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A github-cli extension script to clone all repositories in an organization, optionally filtering by topic.",
+            "homepage": null,
             "id": 332087275,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-05-31T20:06:44Z",
+            "open_issues": 12,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
-            "stars": 147
+            "stars": 148,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -940,12 +1512,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gh cli extension that will make your changelogs ✨",
+            "homepage": null,
             "id": 481745245,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-11-27T21:44:20Z",
+            "open_issues": 16,
             "owner": "chelnak",
             "repo": "gh-changelog",
-            "stars": 129
+            "stars": 129,
+            "topics": [
+              "changelog",
+              "gh-extension",
+              "golang",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -956,12 +1538,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[GitHub CLI] extension for download folders/files",
+            "homepage": null,
             "id": 403511392,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-04-03T02:51:38Z",
+            "open_issues": 5,
             "owner": "yuler",
             "repo": "gh-download",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "command",
+              "download",
+              "gh",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -972,12 +1564,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to interactively explore a repo without cloning",
+            "homepage": null,
             "id": 373520671,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-12-11T12:03:05Z",
+            "open_issues": 3,
             "owner": "samcoe",
             "repo": "gh-repo-explore",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -988,12 +1589,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥 Save Your Code in an Emergency",
+            "homepage": null,
             "id": 401125407,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-03-09T19:48:52Z",
+            "open_issues": 0,
             "owner": "maximousblk",
             "repo": "gh-fire",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "gh-extension",
+              "git"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1004,12 +1613,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🚀 An extension for GitHub CLI to browse repositories with fzf",
+            "homepage": null,
             "id": 405295609,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-02-09T14:00:22Z",
+            "open_issues": 2,
             "owner": "sheepla",
             "repo": "gh-fzrepo",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "bash",
+              "cli",
+              "fzf-scripts",
+              "gh-extension",
+              "github-api",
+              "github-cli"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1020,12 +1641,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to simplify starting and closing releases in GitFlow-based projects.",
+            "homepage": null,
             "id": 406085653,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-04-07T16:24:20Z",
+            "open_issues": 8,
             "owner": "carlsberg",
             "repo": "gh-releaser",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "automation",
+              "gh-extension",
+              "github",
+              "github-actions",
+              "hacktoberfest",
+              "release"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1036,12 +1669,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulate `git describe --tags` for shallow clone repositories.",
+            "homepage": "https://deno.land/x/gh_describe",
             "id": 385941076,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-20T02:11:56Z",
+            "open_issues": 12,
             "owner": "proudust",
             "repo": "gh-describe",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "deno",
+              "gh-extension",
+              "github-actions"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1052,12 +1694,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A difftool implementation for use with gh cli",
+            "homepage": null,
             "id": 547001641,
             "language": "Rust",
+            "license": "BSL-1.0",
             "last_commit": "2026-08-26T21:59:31Z",
+            "open_issues": 5,
             "owner": "speedyleion",
             "repo": "gh-difftool",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1068,12 +1719,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A GitHub CLI extension to determine the next semantic version.",
+            "homepage": null,
             "id": 527313364,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-12T14:56:27Z",
+            "open_issues": 1,
             "owner": "koozz",
             "repo": "gh-semver",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gh-cli",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1084,12 +1743,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension that runs a timer or stopwatch",
+            "homepage": null,
             "id": 406750389,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-18T06:02:39Z",
+            "open_issues": 1,
             "owner": "anmalkov",
             "repo": "gh-timer",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "gh-extension",
+              "timer"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1100,12 +1767,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A gh extension to work with GitHub repositories with Gitpod.",
+            "homepage": "https://www.gitpod.io/",
             "id": 404931709,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-10-23T13:24:02Z",
+            "open_issues": 2,
             "owner": "gitpod-io",
             "repo": "gh-gp",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "gh-extension",
+              "github-cli",
+              "gitpod"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1116,12 +1792,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔎 A GitHub CLI extension that displays collaboration-related information about a GitHub repository.",
+            "homepage": null,
             "id": 461732561,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-08-21T15:57:12Z",
+            "open_issues": 1,
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cli",
+              "collaboration",
+              "gh-extension",
+              "github",
+              "github-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1132,12 +1819,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the gh cli extension of resto - `🔗 a CLI app can send pretty HTTP and API requests with TUI`",
+            "homepage": null,
             "id": 437480840,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-01-03T18:57:42Z",
+            "open_issues": 3,
             "owner": "abdfnx",
             "repo": "gh-resto",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "cli",
+              "extension",
+              "gh-extension",
+              "github",
+              "resto"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1148,12 +1846,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A gh extension to create a branch out of issue",
+            "homepage": null,
             "id": 563219393,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-14T15:29:20Z",
+            "open_issues": 1,
             "owner": "chmouel",
             "repo": "gh-workon",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "command-line",
+              "gh-extension",
+              "git",
+              "github",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1164,12 +1873,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get changelog of npm packages fastly.",
+            "homepage": null,
             "id": 489974617,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-09-27T07:32:17Z",
+            "open_issues": 0,
             "owner": "tmkx",
             "repo": "gh-cl",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1180,12 +1896,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍂 Go home at the end of each branch.",
+            "homepage": null,
             "id": 571803363,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-13T03:24:20Z",
+            "open_issues": 0,
             "owner": "norwd",
             "repo": "gh-home",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1196,12 +1919,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GH CLI Extension to validate a repository",
+            "homepage": null,
             "id": 461122460,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-03-06T04:23:51Z",
+            "open_issues": 0,
             "owner": "govindsme",
             "repo": "gh-validate-repo",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "extension",
+              "gh-cli",
+              "gh-extension",
+              "gh-extensions",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1212,12 +1946,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension for AKF — The AI Native File Format. EXIF for AI.",
+            "homepage": null,
             "id": 1193409524,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-04T07:39:09Z",
+            "open_issues": 0,
             "owner": "HMAKT99",
             "repo": "gh-akf",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-native",
+              "compliance",
+              "file-format",
+              "gh-extension",
+              "metadata",
+              "provenance",
+              "trust"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1228,12 +1977,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension: gh lockvet — vet the PR you're standing in for dependency risk (vulns, malware shapes, typosquats, tampering) across 61 lockfile/manifest formats",
+            "homepage": "https://github.com/matteo-sung/lockvet",
             "id": 1327399005,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-15T19:12:00Z",
+            "open_issues": 0,
             "owner": "matteo-sung",
             "repo": "gh-lockvet",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "dependencies",
+              "gh-extension",
+              "github-cli",
+              "lockfile",
+              "security",
+              "supply-chain-security"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         }
@@ -1250,12 +2011,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "full terminal animations",
+            "homepage": null,
             "id": 389792111,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-12T19:55:51Z",
+            "open_issues": 3,
             "owner": "vilmibm",
             "repo": "gh-screensaver",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1266,12 +2034,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub contribution graph in your terminal",
+            "homepage": null,
             "id": 399736116,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-01-04T11:26:37Z",
+            "open_issues": 2,
             "owner": "kawarimidoll",
             "repo": "gh-graph",
-            "stars": 140
+            "stars": 140,
+            "topics": [
+              "contribution-graph",
+              "curl",
+              "gh-extension",
+              "github"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1282,12 +2060,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gh extension to meet ghost.",
+            "homepage": null,
             "id": 399754709,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-08-29T23:25:30Z",
+            "open_issues": 1,
             "owner": "mattn",
             "repo": "gh-ost",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1298,12 +2083,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "👨‍💻 An extension for GitHub CLI to show user profile pretty like Neofetch",
+            "homepage": null,
             "id": 405412805,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-09-18T17:42:45Z",
+            "open_issues": 1,
             "owner": "sheepla",
             "repo": "gh-userfetch",
-            "stars": 76
+            "stars": 76,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "github-cli",
+              "neofetch"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1314,12 +2110,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub Contribution Graph CLI",
+            "homepage": null,
             "id": 592817459,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2024-12-28T01:19:05Z",
+            "open_issues": 6,
             "owner": "MintArchit",
             "repo": "gh-contribs",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "cli",
+              "command-line",
+              "contribution-graph",
+              "font",
+              "gh-extension",
+              "github",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1330,12 +2139,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitHub CLI extension to render your contribution graph in the terminal",
+            "homepage": null,
             "id": 457517171,
             "language": "Shell",
+            "license": "Unlicense",
             "last_commit": "2026-01-03T18:06:52Z",
+            "open_issues": 0,
             "owner": "mislav",
             "repo": "gh-contrib",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1346,12 +2162,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a gh extension that prints out an oblique strategy",
+            "homepage": null,
             "id": 410389222,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-07-11T20:24:16Z",
+            "open_issues": 1,
             "owner": "vilmibm",
             "repo": "gh-oblique",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1362,12 +2185,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find a BOFH fortune on GH",
+            "homepage": null,
             "id": 400624398,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-08-27T20:14:26Z",
+            "open_issues": 1,
             "owner": "fundor333",
             "repo": "gh-bofh",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "bofh",
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1378,12 +2209,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "chatting in the github cli",
+            "homepage": null,
             "id": 572232704,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-03-27T23:48:29Z",
+            "open_issues": 1,
             "owner": "vilmibm",
             "repo": "gh-chat",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         },
@@ -1394,12 +2232,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "get inspiration from github cli",
+            "homepage": null,
             "id": 407158022,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-11-07T04:21:51Z",
+            "open_issues": 2,
             "owner": "lakuapik",
             "repo": "gh-inspire",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "gh-extension"
+            ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
         }
@@ -1408,15 +2253,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:00:45.957Z",
+    "last_updated": "2026-08-29T04:27:20.299Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of github cli extensions.",
+      "homepage": "https://gh-ext.kodepandai.com/#/",
       "id": 413409107,
       "language": "HTML",
+      "license": "MIT",
       "last_commit": "2026-08-11T03:39:26Z",
+      "open_issues": 5,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
-      "stars": 431
+      "stars": 431,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "github-extension",
+        "hacktoberfest"
+      ]
     },
     "original_repository_sha": "14a2c29d0ea261b5d4b57bb5602813f643e15d94",
     "enhanced_repository": "enhansome/enhansome-gh-cli-extensions",
