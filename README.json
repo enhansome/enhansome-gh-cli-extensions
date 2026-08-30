@@ -15,11 +15,11 @@
             "id": 412209066,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-07-26T05:56:29Z",
+            "last_commit": "2026-08-30T00:55:29Z",
             "open_issues": 8,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1008,
+            "stars": 1009,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 98,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12433,
+            "stars": 12439,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -343,7 +343,7 @@
             "open_issues": 4,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 252,
+            "stars": 257,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -585,8 +585,8 @@
             "id": 401330642,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-21T16:16:17Z",
-            "open_issues": 12,
+            "last_commit": "2026-08-30T01:15:35Z",
+            "open_issues": 11,
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
             "stars": 63,
@@ -741,7 +741,7 @@
             "open_issues": 0,
             "owner": "sudosubin",
             "repo": "gh-attach",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "cli",
               "gh-extension",
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 880,
+            "stars": 881,
             "topics": [
               "cli",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:14:03.027Z",
+    "last_updated": "2026-08-30T01:28:15.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2262,7 +2262,7 @@
       "language": "HTML",
       "license": "MIT",
       "last_commit": "2026-08-11T03:39:26Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
       "stars": 431,
