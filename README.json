@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-30T05:39:03Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "seachicken",
             "repo": "gh-poi",
             "stars": 1010,
@@ -150,7 +150,7 @@
             "open_issues": 99,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12448,
+            "stars": 12451,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "cli",
               "gh-extension",
@@ -339,11 +339,11 @@
             "id": 1193240669,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-19T15:10:08Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-02T00:16:11Z",
+            "open_issues": 8,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 260,
+            "stars": 264,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -585,7 +585,7 @@
             "id": 401330642,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T01:18:02Z",
+            "last_commit": "2026-09-01T23:08:29Z",
             "open_issues": 10,
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
@@ -718,7 +718,7 @@
             "open_issues": 1,
             "owner": "rsese",
             "repo": "gh-actions-status",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "gh-extension"
             ]
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-30T21:50:17Z",
+            "last_commit": "2026-09-01T21:50:19Z",
             "open_issues": 3,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -897,7 +897,7 @@
             "open_issues": 0,
             "owner": "AaronMoat",
             "repo": "gh-pulls",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "gh-extension"
             ]
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1797,8 +1797,8 @@
             "id": 461732561,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-08-21T15:57:12Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-01T23:00:35Z",
+            "open_issues": 2,
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7,
@@ -1825,7 +1825,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2022-01-03T18:57:42Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "abdfnx",
             "repo": "gh-resto",
             "stars": 7,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:57:56.135Z",
+    "last_updated": "2026-09-02T01:14:02.730Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
