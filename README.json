@@ -150,7 +150,7 @@
             "open_issues": 100,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12464,
+            "stars": 12471,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:53:57Z",
+            "last_commit": "2026-09-03T20:37:28Z",
             "open_issues": 3,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1797,7 +1797,7 @@
             "id": 461732561,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-09-02T17:17:10Z",
+            "last_commit": "2026-09-04T00:44:43Z",
             "open_issues": 3,
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T01:18:19.808Z",
+    "last_updated": "2026-09-04T01:10:24.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",

@@ -26,7 +26,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,464 | 🐛 100 | 🌐 Go | 📅 2026-09-02 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,471 | 🐛 100 | 🌐 Go | 📅 2026-09-02 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 479 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 477 | 🐛 214 | 🌐 C# | 📅 2026-09-03 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 413 | 🐛 14 | 🌐 Go | 📅 2026-08-24 - Create an installation access token for a GitHub app from your terminal.
@@ -95,7 +95,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**semver**](https://github.com/koozz/gh-semver) ⚠️ Archived - This GitHub CLI extension can be used determine the semantic version to release.
 * [**timer**](https://github.com/anmalkov/gh-timer) ⭐ 13 | 🐛 1 | 🌐 Shell | 📅 2021-09-18 - Extension that runs a timer or stopwatch.
 * [**gp**](https://github.com/gitpod-io/gh-gp) ⚠️ Archived - Extension to work with GitHub repositories with Gitpod.
-* [**collab-scanner**](https://github.com/nicokosi/gh-collab-scanner) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2026-09-02 - Extension that displays collaboration-related information about a repository.
+* [**collab-scanner**](https://github.com/nicokosi/gh-collab-scanner) ⭐ 7 | 🐛 3 | 🌐 Go | 📅 2026-09-04 - Extension that displays collaboration-related information about a repository.
 * [**resto**](https://github.com/abdfnx/gh-resto) ⭐ 7 | 🐛 3 | 🌐 Shell | 📅 2022-01-03 - a CLI app to send HTTP and API requests with beautiful TUI.
 * [**workon**](https://github.com/chmouel/gh-workon/) ⚠️ Archived - Create a branch or a commit message from an issue title and assign yourself to it.
 * [**cl**](https://github.com/tmkx/gh-cl) ⭐ 6 | 🐛 0 | 🌐 Go | 📅 2025-09-27 - Get changelog of npm packages fastly.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
