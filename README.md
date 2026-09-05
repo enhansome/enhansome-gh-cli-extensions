@@ -26,7 +26,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,471 | 🐛 100 | 🌐 Go | 📅 2026-09-02 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,475 | 🐛 100 | 🌐 Go | 📅 2026-09-02 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 479 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 477 | 🐛 214 | 🌐 C# | 📅 2026-09-03 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 413 | 🐛 14 | 🌐 Go | 📅 2026-08-24 - Create an installation access token for a GitHub app from your terminal.
@@ -43,7 +43,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) ⭐ 86 | 🐛 1 | 🌐 Go | 📅 2022-07-11 - Set and get github user statuses.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) ⭐ 83 | 🐛 4 | 🌐 Go | 📅 2026-02-15 - GitHub CLI extension for managing milestones.
 * [**label**](https://github.com/heaths/gh-label) ⭐ 68 | 🐛 2 | 🌐 Go | 📅 2022-01-20 - Extension for issue label management.
-* [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 63 | 🐛 10 | 🌐 Go | 📅 2026-09-01 - Extension for bumping version of a repository.
+* [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 63 | 🐛 12 | 🌐 Go | 📅 2026-09-04 - Extension for bumping version of a repository.
 * [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 63 | 🐛 0 | 🌐 Go | 📅 2026-09-02 - Extension that provides summary pull request metrics.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2023-07-10 - Extension to manage repository collaborators.
 * [**stars**](https://github.com/aymanbagabas/gh-stars) ⭐ 54 | 🐛 4 | 🌐 Go | 📅 2023-11-06 - GitHub stargazers in your terminal.
@@ -54,7 +54,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**hook**](https://github.com/lucasmelin/gh-hook) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2023-03-10 - Extension to easily manage your github repository webhooks.
 * [**ls**](https://github.com/wuwe1/gh-ls) ⭐ 12 | 🐛 1 | 🌐 Shell | 📅 2023-03-09 - GitHub CLI to list contents of GitHub repo.
 * [**reaction**](https://github.com/ccoVeille/gh-reaction) ⭐ 11 | 🐛 14 | 🌐 Go | 📅 2026-07-21 - View recent GitHub emoji reactions on your posts and repositories, or someone else's.
-* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 3 | 🌐 Go | 📅 2026-09-03 - Pull, push and check status on multiple GitHub repositories at once.
+* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 1 | 🌐 Go | 📅 2026-09-04 - Pull, push and check status on multiple GitHub repositories at once.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2023-03-18 - View all open pull requests you have created.
 * [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-08-12 - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 * [**get-asset**](https://github.com/chmouel/gh-get-asset) ⚠️ Archived - Fetch an asset (ie: binary) from a GitHub release.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
