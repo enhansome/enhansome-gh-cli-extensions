@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12499,
+            "stars": 12506,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "cli",
               "gh-extension",
@@ -210,7 +210,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-10T21:27:09Z",
-            "open_issues": 216,
+            "open_issues": 217,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 477,
@@ -1085,7 +1085,7 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:43:22Z",
+            "last_commit": "2026-09-11T02:24:48Z",
             "open_issues": 4,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T01:20:47.337Z",
+    "last_updated": "2026-09-12T01:22:34.916Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",

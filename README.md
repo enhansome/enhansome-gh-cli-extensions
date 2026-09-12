@@ -26,9 +26,9 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,499 | 🐛 101 | 🌐 Go | 📅 2026-09-08 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
-* [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 479 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 477 | 🐛 216 | 🌐 C# | 📅 2026-09-10 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,506 | 🐛 101 | 🌐 Go | 📅 2026-09-08 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 480 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 477 | 🐛 217 | 🌐 C# | 📅 2026-09-10 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-08-24 - Create an installation access token for a GitHub app from your terminal.
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 348 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
@@ -62,7 +62,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**watch**](https://github.com/justincampbell/gh-watch) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2026-08-18 - Watch GitHub resources (PRs, commits, branches) for state changes.
 * [**gitignore**](https://github.com/garnertb/gh-gitignore) ⚠️ Archived - Load gitignore files from GitHub into your project.
 * [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
-* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-09-10 - Extract TODO-style comments from pull request diffs.
+* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-09-11 - Extract TODO-style comments from pull request diffs.
 * [**dep-risk**](https://github.com/rad1092/gh-dep-risk) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-06-10 - Extension for on-demand npm dependency pull request risk review.
 * [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 * [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
