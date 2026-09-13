@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12506,
+            "stars": 12508,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -1372,7 +1372,7 @@
             "open_issues": 1,
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1424,7 +1424,7 @@
             "open_issues": 2,
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 236,
+            "stars": 237,
             "topics": [
               "gh-extension"
             ]
@@ -2020,7 +2020,7 @@
             "open_issues": 3,
             "owner": "vilmibm",
             "repo": "gh-screensaver",
-            "stars": 215,
+            "stars": 214,
             "topics": [
               "gh-extension"
             ]
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:22:34.916Z",
+    "last_updated": "2026-09-13T01:18:11.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",

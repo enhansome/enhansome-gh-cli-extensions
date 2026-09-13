@@ -26,7 +26,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,506 | 🐛 101 | 🌐 Go | 📅 2026-09-08 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,508 | 🐛 101 | 🌐 Go | 📅 2026-09-08 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 480 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 477 | 🐛 217 | 🌐 C# | 📅 2026-09-10 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 416 | 🐛 14 | 🌐 Go | 📅 2026-08-24 - Create an installation access token for a GitHub app from your terminal.
@@ -78,9 +78,9 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 ## Tool
 
 * [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 882 | 🐛 9 | 🌐 Go | 📅 2026-08-30 - GitHub CLI extension to preview Markdown looks like GitHub.
-* [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 413 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
+* [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 412 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) ⭐ 392 | 🐛 0 | 🌐 Shell | 📅 2025-09-23 - The ultimate compact fzf gh extension.
-* [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 236 | 🐛 2 | 🌐 Go | 📅 2025-10-22 - Print lines matching a pattern in repositories using GitHub API.
+* [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 237 | 🐛 2 | 🌐 Go | 📅 2025-10-22 - Print lines matching a pattern in repositories using GitHub API.
 * [**install**](https://github.com/redraw/gh-install) ⭐ 226 | 🐛 3 | 🌐 Shell | 📅 2025-12-09 - Install GitHub release binaries from the CLI interactively.
 * [**user-stars**](https://github.com/korosuke613/gh-user-stars) ⭐ 187 | 🐛 4 | 🌐 Shell | 📅 2021-11-15 - Extension that displays an interactive list of your github stars.
 * [**clone-org**](https://github.com/matt-bartel/gh-clone-org) ⭐ 148 | 🐛 12 | 🌐 Shell | 📅 2024-05-31 - Extension script to clone all repositories in an organization.
@@ -107,7 +107,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Fun
 
-* [**screensaver**](https://github.com/vilmibm/gh-screensaver) ⭐ 215 | 🐛 3 | 🌐 Go | 📅 2022-07-12 - Extension that runs animated terminal "screensavers".
+* [**screensaver**](https://github.com/vilmibm/gh-screensaver) ⭐ 214 | 🐛 3 | 🌐 Go | 📅 2022-07-12 - Extension that runs animated terminal "screensavers".
 * [**graph**](https://github.com/kawarimidoll/gh-graph) ⭐ 140 | 🐛 2 | 🌐 Shell | 📅 2026-09-08 - Display GitHub contribution graph in your terminal.
 * [**ost**](https://github.com/mattn/gh-ost) ⭐ 91 | 🐛 1 | 🌐 Shell | 📅 2021-08-29 - Extension to meet ghost, boo!
 * [**userfetch**](https://github.com/sheepla/gh-userfetch) ⚠️ Archived - Extension for GitHub CLI to show your GitHub profile.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
