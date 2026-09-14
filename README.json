@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12508,
+            "stars": 12509,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "actions",
             "repo": "gh-actions-cache",
-            "stars": 333,
+            "stars": 332,
             "topics": [
               "gh-extension",
               "golang"
@@ -1699,7 +1699,7 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-10T03:04:41Z",
+            "last_commit": "2026-09-13T20:48:41Z",
             "open_issues": 3,
             "owner": "speedyleion",
             "repo": "gh-difftool",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T01:18:11.323Z",
+    "last_updated": "2026-09-14T01:23:36.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2265,7 +2265,7 @@
       "open_issues": 9,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
-      "stars": 434,
+      "stars": 435,
       "topics": [
         "awesome",
         "awesome-list",
