@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "davidraviv",
             "repo": "gh-clean-branches",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "cli",
               "gh-extension",
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12509,
+            "stars": 12512,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -424,7 +424,7 @@
             "open_issues": 3,
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
-            "stars": 120,
+            "stars": 119,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -1085,7 +1085,7 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-11T02:24:48Z",
+            "last_commit": "2026-09-14T23:11:03Z",
             "open_issues": 4,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
@@ -1220,7 +1220,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-10T21:27:04Z",
-            "open_issues": 50,
+            "open_issues": 49,
             "owner": "github",
             "repo": "gh-classroom",
             "stars": 125,
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1699,8 +1699,8 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-13T20:48:41Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-14T21:33:29Z",
+            "open_issues": 4,
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T01:23:36.846Z",
+    "last_updated": "2026-09-15T01:43:42.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
