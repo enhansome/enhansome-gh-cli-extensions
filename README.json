@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12512,
+            "stars": 12519,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -210,10 +210,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-10T21:27:09Z",
-            "open_issues": 217,
+            "open_issues": 216,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 477,
+            "stars": 478,
             "topics": [
               "gh-extension"
             ]
@@ -424,7 +424,7 @@
             "open_issues": 3,
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
-            "stars": 119,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T21:36:05Z",
+            "last_commit": "2026-09-15T19:28:12Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1223,7 +1223,7 @@
             "open_issues": 49,
             "owner": "github",
             "repo": "gh-classroom",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "gh-extension"
             ]
@@ -1797,7 +1797,7 @@
             "id": 461732561,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-09-04T00:44:43Z",
+            "last_commit": "2026-09-15T19:06:15Z",
             "open_issues": 3,
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:43:42.496Z",
+    "last_updated": "2026-09-16T01:32:26.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
