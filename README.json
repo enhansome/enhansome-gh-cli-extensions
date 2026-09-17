@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1011,
+            "stars": 1012,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12519,
+            "stars": 12518,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -210,7 +210,7 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-10T21:27:09Z",
-            "open_issues": 216,
+            "open_issues": 218,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 478,
@@ -343,7 +343,7 @@
             "open_issues": 4,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -612,7 +612,7 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T10:55:31Z",
+            "last_commit": "2026-09-16T10:54:32Z",
             "open_issues": 0,
             "owner": "hectcastro",
             "repo": "gh-metrics",
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 882,
+            "stars": 883,
             "topics": [
               "cli",
               "gh-extension",
@@ -1699,7 +1699,7 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-14T21:33:29Z",
+            "last_commit": "2026-09-16T14:16:33Z",
             "open_issues": 4,
             "owner": "speedyleion",
             "repo": "gh-difftool",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:32:26.167Z",
+    "last_updated": "2026-09-17T01:36:40.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
