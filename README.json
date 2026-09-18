@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1012,
+            "stars": 1014,
             "topics": [
               "cli",
               "gh-extension"
@@ -43,7 +43,7 @@
             "open_issues": 3,
             "owner": "mislav",
             "repo": "gh-branch",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "fzf",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12518,
+            "stars": 12528,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "cli",
               "gh-extension",
@@ -210,10 +210,10 @@
             "language": "C#",
             "license": "MIT",
             "last_commit": "2026-09-10T21:27:09Z",
-            "open_issues": 218,
+            "open_issues": 219,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 478,
+            "stars": 479,
             "topics": [
               "gh-extension"
             ]
@@ -232,11 +232,11 @@
             "id": 360687334,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-24T11:53:16Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-17T19:50:09Z",
+            "open_issues": 9,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 416,
+            "stars": 417,
             "topics": [
               "actions",
               "apps",
@@ -293,7 +293,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "cli",
               "codespaces",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "actions",
             "repo": "gh-actions-cache",
-            "stars": 332,
+            "stars": 333,
             "topics": [
               "gh-extension",
               "golang"
@@ -343,7 +343,7 @@
             "open_issues": 4,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 268,
+            "stars": 269,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -1085,8 +1085,8 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-14T23:11:03Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-17T03:10:28Z",
+            "open_issues": 3,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
             "stars": 1,
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 883,
+            "stars": 884,
             "topics": [
               "cli",
               "gh-extension",
@@ -1372,7 +1372,7 @@
             "open_issues": 1,
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 393,
+            "stars": 395,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1424,7 +1424,7 @@
             "open_issues": 2,
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "gh-extension"
             ]
@@ -1447,7 +1447,7 @@
             "open_issues": 3,
             "owner": "redraw",
             "repo": "gh-install",
-            "stars": 226,
+            "stars": 227,
             "topics": [
               "cli",
               "fzf",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:36:40.422Z",
+    "last_updated": "2026-09-18T01:23:07.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
