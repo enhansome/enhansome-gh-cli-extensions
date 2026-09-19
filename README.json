@@ -147,10 +147,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-08T10:28:25Z",
-            "open_issues": 101,
+            "open_issues": 100,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12528,
+            "stars": 12533,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -209,8 +209,8 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-10T21:27:09Z",
-            "open_issues": 219,
+            "last_commit": "2026-09-18T18:37:33Z",
+            "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 479,
@@ -236,7 +236,7 @@
             "open_issues": 9,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 417,
+            "stars": 418,
             "topics": [
               "actions",
               "apps",
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 884,
+            "stars": 886,
             "topics": [
               "cli",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:23:07.889Z",
+    "last_updated": "2026-09-19T01:24:33.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2265,7 +2265,7 @@
       "open_issues": 9,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
-      "stars": 435,
+      "stars": 436,
       "topics": [
         "awesome",
         "awesome-list",
