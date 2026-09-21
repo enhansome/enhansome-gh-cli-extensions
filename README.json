@@ -150,7 +150,7 @@
             "open_issues": 100,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12535,
+            "stars": 12538,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -293,7 +293,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "cli",
               "codespaces",
@@ -741,7 +741,7 @@
             "open_issues": 2,
             "owner": "sudosubin",
             "repo": "gh-attach",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "cli",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T01:24:23.568Z",
+    "last_updated": "2026-09-21T01:22:12.923Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
