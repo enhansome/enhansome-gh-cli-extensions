@@ -67,7 +67,7 @@
             "open_issues": 1,
             "owner": "davidraviv",
             "repo": "gh-clean-branches",
-            "stars": 190,
+            "stars": 191,
             "topics": [
               "cli",
               "gh-extension",
@@ -93,7 +93,7 @@
             "open_issues": 16,
             "owner": "HaywardMorihara",
             "repo": "gh-tidy",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "gh-extension"
             ]
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12542,
+            "stars": 12546,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -1495,7 +1495,7 @@
             "language": "Shell",
             "license": null,
             "last_commit": "2024-05-31T20:06:44Z",
-            "open_issues": 12,
+            "open_issues": 11,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
             "stars": 148,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:39:12.188Z",
+    "last_updated": "2026-09-24T01:35:31.712Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
