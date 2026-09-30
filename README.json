@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1015,
+            "stars": 1016,
             "topics": [
               "cli",
               "gh-extension"
@@ -147,10 +147,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-09-22T08:16:12Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12570,
+            "stars": 12575,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -267,7 +267,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "cli",
               "codespaces",
@@ -1420,8 +1420,8 @@
             "id": 422935143,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T07:15:41Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-29T06:43:52Z",
+            "open_issues": 0,
             "owner": "k1LoW",
             "repo": "gh-grep",
             "stars": 238,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:39:26.000Z",
+    "last_updated": "2026-09-30T02:17:05.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
