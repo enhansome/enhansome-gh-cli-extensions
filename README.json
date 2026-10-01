@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1016,
+            "stars": 1017,
             "topics": [
               "cli",
               "gh-extension"
@@ -213,7 +213,7 @@
             "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 480,
+            "stars": 481,
             "topics": [
               "gh-extension"
             ]
@@ -267,7 +267,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "cli",
               "codespaces",
@@ -293,7 +293,7 @@
             "open_issues": 11,
             "owner": "meiji163",
             "repo": "gh-notify",
-            "stars": 348,
+            "stars": 349,
             "topics": [
               "cli",
               "gh-extension",
@@ -537,7 +537,7 @@
             "open_issues": 4,
             "owner": "valeriobelli",
             "repo": "gh-milestone",
-            "stars": 83,
+            "stars": 84,
             "topics": [
               "cli",
               "gh",
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-27T14:14:10Z",
+            "last_commit": "2026-09-30T20:50:33Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1085,7 +1085,7 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T22:44:38Z",
+            "last_commit": "2026-09-30T22:43:07Z",
             "open_issues": 4,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
@@ -1109,7 +1109,7 @@
             "id": 1211043445,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-06-10T08:50:23Z",
+            "last_commit": "2026-09-30T13:34:20Z",
             "open_issues": 0,
             "owner": "rad1092",
             "repo": "gh-dependency-risk",
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "command-line",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T02:17:05.944Z",
+    "last_updated": "2026-10-01T02:17:39.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
