@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12575,
+            "stars": 12579,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -236,7 +236,7 @@
             "open_issues": 10,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 418,
+            "stars": 419,
             "topics": [
               "actions",
               "apps",
@@ -612,7 +612,7 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T12:12:22Z",
+            "last_commit": "2026-10-01T10:49:07Z",
             "open_issues": 0,
             "owner": "hectcastro",
             "repo": "gh-metrics",
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T20:50:33Z",
+            "last_commit": "2026-10-01T16:03:51Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1424,7 +1424,7 @@
             "open_issues": 0,
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 238,
+            "stars": 239,
             "topics": [
               "gh-extension"
             ]
@@ -1498,7 +1498,7 @@
             "open_issues": 11,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
-            "stars": 148,
+            "stars": 149,
             "topics": [
               "gh-extension"
             ]
@@ -1699,7 +1699,7 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-09-25T11:00:47Z",
+            "last_commit": "2026-10-01T13:11:23Z",
             "open_issues": 5,
             "owner": "speedyleion",
             "repo": "gh-difftool",
@@ -2043,7 +2043,7 @@
             "open_issues": 2,
             "owner": "kawarimidoll",
             "repo": "gh-graph",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "contribution-graph",
               "curl",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T02:17:39.248Z",
+    "last_updated": "2026-10-02T02:27:30.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
