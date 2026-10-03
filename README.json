@@ -19,7 +19,7 @@
             "open_issues": 10,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1017,
+            "stars": 1019,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12579,
+            "stars": 12581,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "cli",
               "gh-extension",
@@ -209,7 +209,7 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:37:33Z",
+            "last_commit": "2026-10-02T21:15:17Z",
             "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
@@ -575,6 +575,30 @@
         },
         {
           "node_type": "item",
+          "title": "metrics",
+          "description": "Extension that provides summary pull request metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A GitHub CLI extension that provides summary pull request metrics.",
+            "homepage": null,
+            "id": 472937449,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-01T10:49:07Z",
+            "open_issues": 0,
+            "owner": "hectcastro",
+            "repo": "gh-metrics",
+            "stars": 64,
+            "topics": [
+              "gh-extension",
+              "hacktoberfest"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
           "title": "bump",
           "description": "Extension for bumping version of a repository.",
           "children": [],
@@ -596,30 +620,6 @@
               "github",
               "go",
               "golang"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "metrics",
-          "description": "Extension that provides summary pull request metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A GitHub CLI extension that provides summary pull request metrics.",
-            "homepage": null,
-            "id": 472937449,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-01T10:49:07Z",
-            "open_issues": 0,
-            "owner": "hectcastro",
-            "repo": "gh-metrics",
-            "stars": 63,
-            "topics": [
-              "gh-extension",
-              "hacktoberfest"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:03:51Z",
+            "last_commit": "2026-10-02T21:11:52Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1085,7 +1085,7 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-30T22:43:07Z",
+            "last_commit": "2026-10-02T22:43:18Z",
             "open_issues": 4,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 890,
+            "stars": 891,
             "topics": [
               "cli",
               "gh-extension",
@@ -2043,7 +2043,7 @@
             "open_issues": 2,
             "owner": "kawarimidoll",
             "repo": "gh-graph",
-            "stars": 141,
+            "stars": 142,
             "topics": [
               "contribution-graph",
               "curl",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:27:30.139Z",
+    "last_updated": "2026-10-03T02:13:23.207Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
