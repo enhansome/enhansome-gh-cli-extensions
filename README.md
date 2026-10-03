@@ -77,7 +77,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Tool
 
-* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 891 | 🐛 9 | 🌐 Go | 📅 2026-08-30 - GitHub CLI extension to preview Markdown looks like GitHub.
+* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 892 | 🐛 9 | 🌐 Go | 📅 2026-08-30 - GitHub CLI extension to preview Markdown looks like GitHub.
 * [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 413 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) ⭐ 396 | 🐛 0 | 🌐 Shell | 📅 2025-09-23 - The ultimate compact fzf gh extension.
 * [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 239 | 🐛 0 | 🌐 Go | 📅 2026-09-29 - Print lines matching a pattern in repositories using GitHub API.

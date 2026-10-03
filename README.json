@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 891,
+            "stars": 892,
             "topics": [
               "cli",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:13:23.207Z",
+    "last_updated": "2026-10-03T04:50:57.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
