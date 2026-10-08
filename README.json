@@ -19,7 +19,7 @@
             "open_issues": 11,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1018,
+            "stars": 1019,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 101,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12588,
+            "stars": 12602,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 7,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "cli",
               "gh-extension",
@@ -209,8 +209,8 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-06T22:14:13Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-07T22:30:29Z",
+            "open_issues": 216,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 481,
@@ -293,7 +293,7 @@
             "open_issues": 11,
             "owner": "meiji163",
             "repo": "gh-notify",
-            "stars": 349,
+            "stars": 348,
             "topics": [
               "cli",
               "gh-extension",
@@ -343,7 +343,7 @@
             "open_issues": 4,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -862,12 +862,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "github-cli extension allowing to manage multiple github repositories at once",
-            "homepage": "https://pkg.go.dev/github.com/sarumaj/gh-gr/v2",
+            "description": "Mirror of https://git.ciepiela.org/dawid/gh-gr, where issues and pull requests go. github-cli extension allowing to manage multiple github repositories at once",
+            "homepage": "https://git.ciepiela.org/dawid/gh-gr",
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-04T21:56:54Z",
+            "last_commit": "2026-10-08T00:26:24Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1346,7 +1346,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 892,
+            "stars": 893,
             "topics": [
               "cli",
               "gh-extension",
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "command-line",
               "gh-extension",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T02:36:21.951Z",
+    "last_updated": "2026-10-08T02:49:52.274Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2265,7 +2265,7 @@
       "open_issues": 14,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
-      "stars": 439,
+      "stars": 440,
       "topics": [
         "awesome",
         "awesome-list",
