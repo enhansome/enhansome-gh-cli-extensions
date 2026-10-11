@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-03T07:42:16Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
             "stars": 1018,
@@ -147,10 +147,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-09T15:00:50Z",
-            "open_issues": 101,
+            "open_issues": 102,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12610,
+            "stars": 12612,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -397,7 +397,7 @@
             "open_issues": 3,
             "owner": "KOBA789",
             "repo": "gh-sql",
-            "stars": 134,
+            "stars": 133,
             "topics": [
               "cli",
               "gh-extension",
@@ -741,7 +741,7 @@
             "open_issues": 3,
             "owner": "sudosubin",
             "repo": "gh-attach",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "cli",
               "gh-extension",
@@ -1498,7 +1498,7 @@
             "open_issues": 11,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "gh-extension"
             ]
@@ -1699,8 +1699,8 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-08T10:39:27Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-11T00:33:18Z",
+            "open_issues": 4,
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:33:53.954Z",
+    "last_updated": "2026-10-11T02:03:30.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
