@@ -150,7 +150,7 @@
             "open_issues": 102,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12617,
+            "stars": 12615,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -343,7 +343,7 @@
             "open_issues": 5,
             "owner": "drogers0",
             "repo": "gh-image",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "gh-cli",
               "gh-extension",
@@ -649,6 +649,34 @@
         },
         {
           "node_type": "item",
+          "title": "xplr",
+          "description": "Explore GitHub repos using xplr via GitHub CLI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Explore GitHub repos using xplr via GitHub CLI",
+            "homepage": "https://xplr.dev",
+            "id": 498448512,
+            "language": "Lua",
+            "license": "MIT",
+            "last_commit": "2023-05-01T05:14:53Z",
+            "open_issues": 2,
+            "owner": "sayanarijit",
+            "repo": "gh-xplr",
+            "stars": 55,
+            "topics": [
+              "cli",
+              "command-line",
+              "gh-extension",
+              "github",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
           "title": "stars",
           "description": "GitHub stargazers in your terminal.",
           "children": [],
@@ -670,34 +698,6 @@
               "gh-cli",
               "gh-extension",
               "gh-extensions"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xplr",
-          "description": "Explore GitHub repos using xplr via GitHub CLI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Explore GitHub repos using xplr via GitHub CLI",
-            "homepage": "https://xplr.dev",
-            "id": 498448512,
-            "language": "Lua",
-            "license": "MIT",
-            "last_commit": "2023-05-01T05:14:53Z",
-            "open_issues": 2,
-            "owner": "sayanarijit",
-            "repo": "gh-xplr",
-            "stars": 54,
-            "topics": [
-              "cli",
-              "command-line",
-              "gh-extension",
-              "github",
-              "terminal",
-              "tui"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -862,12 +862,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Mirror of https://git.ciepiela.org/dawid/gh-gr, where issues and pull requests go. github-cli extension allowing to manage multiple github repositories at once",
+            "description": "Mirror of https://git.ciepiela.org/dawid/gh-gr, where issues and pull requests go. Mirror of https://git.ciepiela.org/dawid/gh-gr, where issues and pull requests go. github-cli extension allowing to manage multiple github repositories at once",
             "homepage": "https://git.ciepiela.org/dawid/gh-gr",
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-09T12:23:46Z",
+            "last_commit": "2026-10-12T14:05:45Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1075,6 +1075,40 @@
         },
         {
           "node_type": "item",
+          "title": "outagedeck",
+          "description": "Check GitHub and cloud/SaaS dependency status from official vendor status feeds.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Check GitHub and cloud or SaaS status and set up alerts from GitHub CLI.",
+            "homepage": "https://outagedeck.com/developers/alerts?utm_source=github&utm_medium=repository&utm_campaign=gh_extension&utm_content=repo_homepage",
+            "id": 1324465643,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-12T12:45:10Z",
+            "open_issues": 0,
+            "owner": "outagedeck",
+            "repo": "gh-outagedeck",
+            "stars": 1,
+            "topics": [
+              "cli",
+              "cloud-status",
+              "devops",
+              "gh-extension",
+              "github",
+              "github-cli",
+              "incident-response",
+              "monitoring",
+              "outage-alerts",
+              "outage-monitoring",
+              "sre",
+              "status-page"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
           "title": "pr-todo",
           "description": "Extract TODO-style comments from pull request diffs.",
           "children": [],
@@ -1163,40 +1197,6 @@
               "milestone-management",
               "milestones",
               "project-management"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "outagedeck",
-          "description": "Check GitHub and cloud/SaaS dependency status from official vendor status feeds.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Check GitHub and cloud or SaaS status and set up alerts from GitHub CLI.",
-            "homepage": "https://outagedeck.com/developers/alerts?utm_source=github&utm_medium=repository&utm_campaign=gh_extension&utm_content=repo_homepage",
-            "id": 1324465643,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-12T12:45:10Z",
-            "open_issues": 0,
-            "owner": "outagedeck",
-            "repo": "gh-outagedeck",
-            "stars": 0,
-            "topics": [
-              "cli",
-              "cloud-status",
-              "devops",
-              "gh-extension",
-              "github",
-              "github-cli",
-              "incident-response",
-              "monitoring",
-              "outage-alerts",
-              "outage-monitoring",
-              "sre",
-              "status-page"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -1343,10 +1343,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-30T05:45:03Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 894,
+            "stars": 895,
             "topics": [
               "cli",
               "gh-extension",
@@ -1372,7 +1372,7 @@
             "open_issues": 1,
             "owner": "gennaro-tedesco",
             "repo": "gh-s",
-            "stars": 414,
+            "stars": 415,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1397,7 +1397,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1699,8 +1699,8 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-11T21:58:28Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-12T23:35:15Z",
+            "open_issues": 2,
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:34:40.129Z",
+    "last_updated": "2026-10-13T03:44:18.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
