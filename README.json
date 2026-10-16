@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1019,
+            "stars": 1021,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 103,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12626,
+            "stars": 12629,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -162,35 +162,6 @@
               "go",
               "golang",
               "lipgloss",
-              "terminal",
-              "tui"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "eco",
-          "description": "Extension to explore github ecosystem, like github profile, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🦎 gh cli extension to explore the ecosystem",
-            "homepage": null,
-            "id": 491784345,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-07-17T05:34:28Z",
-            "open_issues": 7,
-            "owner": "jrnxf",
-            "repo": "gh-eco",
-            "stars": 482,
-            "topics": [
-              "cli",
-              "gh-extension",
-              "github",
-              "go",
-              "golang",
               "terminal",
               "tui"
             ]
@@ -216,6 +187,35 @@
             "stars": 482,
             "topics": [
               "gh-extension"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
+          "title": "eco",
+          "description": "Extension to explore github ecosystem, like github profile, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🦎 gh cli extension to explore the ecosystem",
+            "homepage": null,
+            "id": 491784345,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-07-17T05:34:28Z",
+            "open_issues": 7,
+            "owner": "jrnxf",
+            "repo": "gh-eco",
+            "stars": 481,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "go",
+              "golang",
+              "terminal",
+              "tui"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -293,7 +293,7 @@
             "open_issues": 11,
             "owner": "meiji163",
             "repo": "gh-notify",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "cli",
               "gh-extension",
@@ -585,7 +585,7 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T13:37:29Z",
+            "last_commit": "2026-10-15T10:43:35Z",
             "open_issues": 0,
             "owner": "hectcastro",
             "repo": "gh-metrics",
@@ -1424,7 +1424,7 @@
             "open_issues": 0,
             "owner": "k1LoW",
             "repo": "gh-grep",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "gh-extension"
             ]
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:40:24.054Z",
+    "last_updated": "2026-10-16T01:34:20.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
