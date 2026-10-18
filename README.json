@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1021,
+            "stars": 1022,
             "topics": [
               "cli",
               "gh-extension"
@@ -146,11 +146,11 @@
             "id": 417230885,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T11:24:32Z",
-            "open_issues": 103,
+            "last_commit": "2026-10-17T16:29:53Z",
+            "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12630,
+            "stars": 12633,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -424,7 +424,7 @@
             "open_issues": 3,
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
-            "stars": 121,
+            "stars": 120,
             "topics": []
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -1119,8 +1119,8 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T22:42:52Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-17T18:13:17Z",
+            "open_issues": 3,
             "owner": "Suree33",
             "repo": "gh-pr-todo",
             "stars": 1,
@@ -1675,7 +1675,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-07-20T02:11:56Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "proudust",
             "repo": "gh-describe",
             "stars": 23,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:25:09.360Z",
+    "last_updated": "2026-10-18T01:23:07.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
