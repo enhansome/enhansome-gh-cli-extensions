@@ -15,7 +15,7 @@
             "id": 412209066,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-03T07:42:16Z",
+            "last_commit": "2026-10-18T09:28:27Z",
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12633,
+            "stars": 12641,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -1674,8 +1674,8 @@
             "id": 385941076,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-07-20T02:11:56Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-18T12:21:48Z",
+            "open_issues": 11,
             "owner": "proudust",
             "repo": "gh-describe",
             "stars": 23,
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:23:07.772Z",
+    "last_updated": "2026-10-19T01:30:59.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2262,7 +2262,7 @@
       "language": "HTML",
       "license": "MIT",
       "last_commit": "2026-08-11T03:39:26Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
       "stars": 441,
