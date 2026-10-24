@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12667,
+            "stars": 12675,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -1346,7 +1346,7 @@
             "open_issues": 10,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 900,
+            "stars": 901,
             "topics": [
               "cli",
               "gh-extension",
@@ -1498,7 +1498,7 @@
             "open_issues": 11,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
-            "stars": 149,
+            "stars": 150,
             "topics": [
               "gh-extension"
             ]
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T01:44:51.220Z",
+    "last_updated": "2026-10-24T01:48:49.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
@@ -2262,7 +2262,7 @@
       "language": "HTML",
       "license": "MIT",
       "last_commit": "2026-08-11T03:39:26Z",
-      "open_issues": 19,
+      "open_issues": 18,
       "owner": "kodepandai",
       "repo": "awesome-gh-cli-extensions",
       "stars": 443,
