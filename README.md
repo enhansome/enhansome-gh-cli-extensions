@@ -26,9 +26,9 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,675 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,684 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 482 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 482 | 🐛 215 | 🌐 C# | 📅 2026-10-22 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 482 | 🐛 220 | 🌐 C# | 📅 2026-10-24 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 420 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 351 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
@@ -108,7 +108,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 ## Fun
 
 * [**screensaver**](https://github.com/vilmibm/gh-screensaver) ⭐ 215 | 🐛 3 | 🌐 Go | 📅 2022-07-12 - Extension that runs animated terminal "screensavers".
-* [**graph**](https://github.com/kawarimidoll/gh-graph) ⭐ 142 | 🐛 2 | 🌐 Shell | 📅 2026-09-08 - Display GitHub contribution graph in your terminal.
+* [**graph**](https://github.com/kawarimidoll/gh-graph) ⭐ 143 | 🐛 2 | 🌐 Shell | 📅 2026-09-08 - Display GitHub contribution graph in your terminal.
 * [**ost**](https://github.com/mattn/gh-ost) ⭐ 91 | 🐛 1 | 🌐 Shell | 📅 2021-08-29 - Extension to meet ghost, boo!
 * [**userfetch**](https://github.com/sheepla/gh-userfetch) ⚠️ Archived - Extension for GitHub CLI to show your GitHub profile.
 * [**contribs**](https://github.com/mintarchit/gh-contribs) ⭐ 68 | 🐛 6 | 🌐 Shell | 📅 2024-12-28 - Show Github contribution graph via cli
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._

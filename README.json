@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12675,
+            "stars": 12684,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -209,8 +209,8 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-22T23:40:19Z",
-            "open_issues": 215,
+            "last_commit": "2026-10-24T16:33:41Z",
+            "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 482,
@@ -2043,7 +2043,7 @@
             "open_issues": 2,
             "owner": "kawarimidoll",
             "repo": "gh-graph",
-            "stars": 142,
+            "stars": 143,
             "topics": [
               "contribution-graph",
               "curl",
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T01:48:49.719Z",
+    "last_updated": "2026-10-25T01:25:21.922Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
