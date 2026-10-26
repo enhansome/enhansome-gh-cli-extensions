@@ -15,7 +15,7 @@
             "id": 412209066,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-18T09:28:27Z",
+            "last_commit": "2026-10-25T10:27:36Z",
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12684,
+            "stars": 12683,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -162,35 +162,6 @@
               "go",
               "golang",
               "lipgloss",
-              "terminal",
-              "tui"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "eco",
-          "description": "Extension to explore github ecosystem, like github profile, etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🦎 gh cli extension to explore the ecosystem",
-            "homepage": null,
-            "id": 491784345,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-07-17T05:34:28Z",
-            "open_issues": 7,
-            "owner": "jrnxf",
-            "repo": "gh-eco",
-            "stars": 482,
-            "topics": [
-              "cli",
-              "gh-extension",
-              "github",
-              "go",
-              "golang",
               "terminal",
               "tui"
             ]
@@ -222,6 +193,35 @@
         },
         {
           "node_type": "item",
+          "title": "eco",
+          "description": "Extension to explore github ecosystem, like github profile, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🦎 gh cli extension to explore the ecosystem",
+            "homepage": null,
+            "id": 491784345,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-07-17T05:34:28Z",
+            "open_issues": 7,
+            "owner": "jrnxf",
+            "repo": "gh-eco",
+            "stars": 481,
+            "topics": [
+              "cli",
+              "gh-extension",
+              "github",
+              "go",
+              "golang",
+              "terminal",
+              "tui"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
           "title": "token",
           "description": "Create an installation access token for a GitHub app from your terminal.",
           "children": [],
@@ -232,8 +232,8 @@
             "id": 360687334,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T11:54:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-25T17:00:47Z",
+            "open_issues": 10,
             "owner": "Link-",
             "repo": "gh-token",
             "stars": 420,
@@ -1474,7 +1474,7 @@
             "open_issues": 4,
             "owner": "korosuke613",
             "repo": "gh-user-stars",
-            "stars": 186,
+            "stars": 187,
             "topics": [
               "gh-extension",
               "shellscript"
@@ -2253,7 +2253,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:25:21.922Z",
+    "last_updated": "2026-10-26T01:29:19.478Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",

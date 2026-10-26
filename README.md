@@ -18,7 +18,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Git
 
-* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,023 | 🐛 12 | 🌐 Go | 📅 2026-10-18 - Safely clean up your local branches.
+* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,023 | 🐛 12 | 🌐 Go | 📅 2026-10-25 - Safely clean up your local branches.
 * [**branch**](https://github.com/mislav/gh-branch) ⭐ 276 | 🐛 3 | 🌐 Shell | 📅 2024-07-16 - Extension for fuzzy finding, quickly switching between and deleting branches.
 * [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) ⭐ 191 | 🐛 1 | 🌐 Shell | 📅 2026-06-19 - Safely delete local branches that have no remotes and no hanging changes.
 * [**tidy**](https://github.com/HaywardMorihara/gh-tidy) ⭐ 64 | 🐛 17 | 🌐 Shell | 📅 2026-08-14 - Extension for tidying your Git workspace.
@@ -26,10 +26,10 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,684 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
-* [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 482 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,683 | 🐛 111 | 🌐 Go | 📅 2026-10-17 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 482 | 🐛 220 | 🌐 C# | 📅 2026-10-24 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
-* [**token**](https://github.com/Link-/gh-token) ⭐ 420 | 🐛 11 | 🌐 Go | 📅 2026-10-19 - Create an installation access token for a GitHub app from your terminal.
+* [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 481 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
+* [**token**](https://github.com/Link-/gh-token) ⭐ 420 | 🐛 10 | 🌐 Go | 📅 2026-10-25 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 351 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
@@ -82,7 +82,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) ⭐ 399 | 🐛 0 | 🌐 Shell | 📅 2025-09-23 - The ultimate compact fzf gh extension.
 * [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 240 | 🐛 0 | 🌐 Go | 📅 2026-09-29 - Print lines matching a pattern in repositories using GitHub API.
 * [**install**](https://github.com/redraw/gh-install) ⭐ 227 | 🐛 3 | 🌐 Shell | 📅 2025-12-09 - Install GitHub release binaries from the CLI interactively.
-* [**user-stars**](https://github.com/korosuke613/gh-user-stars) ⭐ 186 | 🐛 4 | 🌐 Shell | 📅 2021-11-15 - Extension that displays an interactive list of your github stars.
+* [**user-stars**](https://github.com/korosuke613/gh-user-stars) ⭐ 187 | 🐛 4 | 🌐 Shell | 📅 2021-11-15 - Extension that displays an interactive list of your github stars.
 * [**clone-org**](https://github.com/matt-bartel/gh-clone-org) ⭐ 150 | 🐛 11 | 🌐 Shell | 📅 2024-05-31 - Extension script to clone all repositories in an organization.
 * [**changelog**](https://github.com/chelnak/gh-changelog) ⭐ 129 | 🐛 16 | 🌐 Go | 📅 2024-11-27 - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
 * [**download**](https://github.com/yuler/gh-download) ⭐ 87 | 🐛 5 | 🌐 Shell | 📅 2023-04-03 - Extension to download folders/files without cloning the repository.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
