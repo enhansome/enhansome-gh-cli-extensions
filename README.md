@@ -26,14 +26,14 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,691 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 482 | 🐛 215 | 🌐 C# | 📅 2026-10-27 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,695 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 214 | 🌐 C# | 📅 2026-10-28 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 481 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
-* [**token**](https://github.com/Link-/gh-token) ⭐ 420 | 🐛 11 | 🌐 Go | 📅 2026-10-26 - Create an installation access token for a GitHub app from your terminal.
+* [**token**](https://github.com/Link-/gh-token) ⭐ 421 | 🐛 11 | 🌐 Go | 📅 2026-10-26 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 351 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
-* [**image**](https://github.com/drogers0/gh-image) ⭐ 280 | 🐛 3 | 🌐 Go | 📅 2026-10-27 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
+* [**image**](https://github.com/drogers0/gh-image) ⭐ 281 | 🐛 3 | 🌐 Go | 📅 2026-10-27 - Upload local images to GitHub from the terminal, producing user-attachments URLs that work in issues, PRs, and READMEs.
 * [**profile**](https://github.com/gabe565/gh-profile) ⚠️ Archived - Extension that allows you to use multiple GitHub accounts with the gh cli.
 * [**sql**](https://github.com/KOBA789/gh-sql) ⭐ 133 | 🐛 3 | 🌐 Rust | 📅 2023-06-19 - Query GitHub Projects (beta) with SQL.
 * [**sub-issue**](https://github.com/yahsan2/gh-sub-issue) ⭐ 121 | 🐛 3 | 🌐 Go | 📅 2025-10-28 - Manage sub-issues (child issues) and create hierarchical task structures by linking issues as parent-child relationships.
@@ -43,7 +43,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**user-status**](https://github.com/vilmibm/gh-user-status) ⭐ 86 | 🐛 1 | 🌐 Go | 📅 2022-07-11 - Set and get github user statuses.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) ⭐ 84 | 🐛 4 | 🌐 Go | 📅 2026-02-15 - GitHub CLI extension for managing milestones.
 * [**label**](https://github.com/heaths/gh-label) ⭐ 67 | 🐛 2 | 🌐 Go | 📅 2022-01-20 - Extension for issue label management.
-* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 0 | 🌐 Go | 📅 2026-10-22 - Extension that provides summary pull request metrics.
+* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 0 | 🌐 Go | 📅 2026-10-28 - Extension that provides summary pull request metrics.
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 63 | 🐛 12 | 🌐 Go | 📅 2026-10-20 - Extension for bumping version of a repository.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2023-07-10 - Extension to manage repository collaborators.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) ⭐ 55 | 🐛 2 | 🌐 Lua | 📅 2023-05-01 - Explore GitHub repos using xplr via GitHub CLI.
@@ -63,7 +63,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**gitignore**](https://github.com/garnertb/gh-gitignore) ⚠️ Archived - Load gitignore files from GitHub into your project.
 * [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 * [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
-* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-10-27 - Extract TODO-style comments from pull request diffs.
+* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-10-28 - Extract TODO-style comments from pull request diffs.
 * [**dep-risk**](https://github.com/rad1092/gh-dep-risk) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-26 - Extension for on-demand npm dependency pull request risk review.
 * [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 
@@ -77,16 +77,16 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Tool
 
-* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 901 | 🐛 10 | 🌐 Go | 📅 2026-10-13 - GitHub CLI extension to preview Markdown looks like GitHub.
-* [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 416 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
+* [**markdown-preview**](https://github.com/yusukebe/gh-markdown-preview) ⭐ 903 | 🐛 9 | 🌐 Go | 📅 2026-10-28 - GitHub CLI extension to preview Markdown looks like GitHub.
+* [**s**](https://github.com/gennaro-tedesco/gh-s) ⭐ 417 | 🐛 1 | 🌐 Go | 📅 2025-08-20 - Search GitHub repositories interactively from the command line.
 * [**f**](https://github.com/gennaro-tedesco/gh-f) ⭐ 399 | 🐛 0 | 🌐 Shell | 📅 2025-09-23 - The ultimate compact fzf gh extension.
 * [**grep**](https://github.com/k1LoW/gh-grep) ⭐ 240 | 🐛 0 | 🌐 Go | 📅 2026-09-29 - Print lines matching a pattern in repositories using GitHub API.
 * [**install**](https://github.com/redraw/gh-install) ⭐ 227 | 🐛 3 | 🌐 Shell | 📅 2025-12-09 - Install GitHub release binaries from the CLI interactively.
 * [**user-stars**](https://github.com/korosuke613/gh-user-stars) ⭐ 187 | 🐛 4 | 🌐 Shell | 📅 2021-11-15 - Extension that displays an interactive list of your github stars.
-* [**clone-org**](https://github.com/matt-bartel/gh-clone-org) ⭐ 150 | 🐛 11 | 🌐 Shell | 📅 2024-05-31 - Extension script to clone all repositories in an organization.
+* [**clone-org**](https://github.com/matt-bartel/gh-clone-org) ⭐ 151 | 🐛 11 | 🌐 Shell | 📅 2024-05-31 - Extension script to clone all repositories in an organization.
 * [**changelog**](https://github.com/chelnak/gh-changelog) ⭐ 129 | 🐛 16 | 🌐 Go | 📅 2024-11-27 - Extension for creating changelogs that adhere to the [keep a changelog](https://keepachangelog.com/en/1.0.0/) specification.
 * [**download**](https://github.com/yuler/gh-download) ⭐ 87 | 🐛 5 | 🌐 Shell | 📅 2023-04-03 - Extension to download folders/files without cloning the repository.
-* [**repo-explore**](https://github.com/samcoe/gh-repo-explore) ⭐ 65 | 🐛 3 | 🌐 Go | 📅 2023-12-11 - Extension to interactively explore a repo without cloning.
+* [**repo-explore**](https://github.com/samcoe/gh-repo-explore) ⭐ 66 | 🐛 3 | 🌐 Go | 📅 2023-12-11 - Extension to interactively explore a repo without cloning.
 * [**fire**](https://github.com/maximousblk/gh-fire) ⭐ 48 | 🐛 0 | 🌐 Shell | 📅 2023-03-09 - Extention that helps in the event of an emergency.
 * [**fzrepo**](https://github.com/sheepla/gh-fzrepo) ⚠️ Archived - Extension for GitHub CLI to browse repositories with fzf.
 * [**releaser**](https://github.com/carlsberg/gh-releaser) ⭐ 25 | 🐛 8 | 🌐 TypeScript | 📅 2022-04-07 - Extension to simplify starting and closing releases in GitFlow-based projects.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
