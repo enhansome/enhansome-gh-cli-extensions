@@ -26,7 +26,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,695 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,698 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 214 | 🌐 C# | 📅 2026-10-28 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 481 | 🐛 7 | 🌐 Go | 📅 2026-07-17 - Extension to explore github ecosystem, like github profile, etc.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 421 | 🐛 11 | 🌐 Go | 📅 2026-10-26 - Create an installation access token for a GitHub app from your terminal.
@@ -59,11 +59,11 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-08-12 - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 * [**get-asset**](https://github.com/chmouel/gh-get-asset) ⚠️ Archived - Fetch an asset (ie: binary) from a GitHub release.
 * [**org-users**](https://github.com/yermulnik/gh-org-users) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2022-07-19 - GH CLI extension to list all GitHub Org users.
-* [**watch**](https://github.com/justincampbell/gh-watch) ⭐ 4 | 🐛 1 | 🌐 Go | 📅 2026-08-18 - Watch GitHub resources (PRs, commits, branches) for state changes.
+* [**watch**](https://github.com/justincampbell/gh-watch) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2026-10-29 - Watch GitHub resources (PRs, commits, branches) for state changes.
 * [**gitignore**](https://github.com/garnertb/gh-gitignore) ⚠️ Archived - Load gitignore files from GitHub into your project.
 * [**label-sync**](https://github.com/scttfrdmn/gh-label-sync) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Extension for bulk label management and synchronization from YAML/JSON/CSV files.
 * [**outagedeck**](https://github.com/outagedeck/gh-outagedeck) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2026-08-12 - Check GitHub and cloud/SaaS dependency status from official vendor status feeds.
-* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2026-10-28 - Extract TODO-style comments from pull request diffs.
+* [**pr-todo**](https://github.com/Suree33/gh-pr-todo) ⭐ 1 | 🐛 3 | 🌐 Go | 📅 2026-10-28 - Extract TODO-style comments from pull request diffs.
 * [**dep-risk**](https://github.com/rad1092/gh-dep-risk) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-10-26 - Extension for on-demand npm dependency pull request risk review.
 * [**milestone-manager**](https://github.com/scttfrdmn/gh-milestone-manager) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2025-12-13 - Comprehensive milestone management with beautiful formatting, close/reopen commands, and detailed progress tracking.
 
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
