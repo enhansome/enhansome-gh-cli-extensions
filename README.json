@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "cli",
               "gh-extension"
@@ -147,10 +147,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-26T18:21:17Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12702,
+            "stars": 12705,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -180,8 +180,8 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-28T21:29:34Z",
-            "open_issues": 214,
+            "last_commit": "2026-10-31T16:34:53Z",
+            "open_issues": 217,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 483,
@@ -203,11 +203,11 @@
             "id": 491784345,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-30T09:56:32Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-31T20:55:21Z",
+            "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 482,
+            "stars": 481,
             "topics": [
               "cli",
               "gh-extension",
@@ -1345,10 +1345,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-28T13:29:39Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 903,
+            "stars": 905,
             "topics": [
               "cli",
               "gh-extension",
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 399,
+            "stars": 398,
             "topics": [
               "command-line",
               "gh-extension",
@@ -1701,7 +1701,7 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-10-30T16:59:36Z",
+            "last_commit": "2026-11-01T02:19:34Z",
             "open_issues": 2,
             "owner": "speedyleion",
             "repo": "gh-difftool",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:38:25.622Z",
+    "last_updated": "2026-11-01T02:26:30.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
