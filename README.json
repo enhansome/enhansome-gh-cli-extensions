@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12705,
+            "stars": 12709,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -203,7 +203,7 @@
             "id": 491784345,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-31T20:55:21Z",
+            "last_commit": "2026-11-01T23:40:17Z",
             "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
@@ -1476,7 +1476,7 @@
             "open_issues": 4,
             "owner": "korosuke613",
             "repo": "gh-user-stars",
-            "stars": 187,
+            "stars": 186,
             "topics": [
               "gh-extension",
               "shellscript"
@@ -1701,7 +1701,7 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-01T02:19:34Z",
+            "last_commit": "2026-11-01T21:26:57Z",
             "open_issues": 2,
             "owner": "speedyleion",
             "repo": "gh-difftool",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T02:26:30.578Z",
+    "last_updated": "2026-11-02T02:41:04.419Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
