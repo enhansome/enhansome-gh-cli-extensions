@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12714,
+            "stars": 12716,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -164,29 +164,6 @@
               "lipgloss",
               "terminal",
               "tui"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gei",
-          "description": "Extension to help you move your enterprise to GitHub Enterprise Cloud.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Migration CLI for GitHub to GitHub migrations",
-            "homepage": null,
-            "id": 416855086,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2026-10-31T16:34:53Z",
-            "open_issues": 217,
-            "owner": "github",
-            "repo": "gh-gei",
-            "stars": 483,
-            "topics": [
-              "gh-extension"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -216,6 +193,29 @@
               "golang",
               "terminal",
               "tui"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gei",
+          "description": "Extension to help you move your enterprise to GitHub Enterprise Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Migration CLI for GitHub to GitHub migrations",
+            "homepage": null,
+            "id": 416855086,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2026-10-31T16:34:53Z",
+            "open_issues": 217,
+            "owner": "github",
+            "repo": "gh-gei",
+            "stars": 481,
+            "topics": [
+              "gh-extension"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -267,7 +267,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 352,
+            "stars": 351,
             "topics": [
               "cli",
               "codespaces",
@@ -491,7 +491,7 @@
             "open_issues": 2,
             "owner": "github",
             "repo": "gh-projects",
-            "stars": 102,
+            "stars": 101,
             "topics": [
               "gh-extension"
             ]
@@ -1225,7 +1225,7 @@
             "open_issues": 50,
             "owner": "github",
             "repo": "gh-classroom",
-            "stars": 127,
+            "stars": 126,
             "topics": [
               "gh-extension"
             ]
@@ -1701,8 +1701,8 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-01T21:26:57Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T02:39:08Z",
+            "open_issues": 3,
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21,
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T03:58:38.386Z",
+    "last_updated": "2026-11-04T03:06:23.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
