@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1024,
+            "stars": 1026,
             "topics": [
               "cli",
               "gh-extension"
@@ -147,10 +147,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-26T18:21:17Z",
-            "open_issues": 111,
+            "open_issues": 112,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12728,
+            "stars": 12729,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -180,11 +180,11 @@
             "id": 491784345,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:37:06Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-06T05:34:26Z",
+            "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "cli",
               "gh-extension",
@@ -236,7 +236,7 @@
             "open_issues": 9,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "actions",
               "apps",
@@ -1119,8 +1119,8 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-28T02:53:10Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-06T22:43:05Z",
+            "open_issues": 4,
             "owner": "suree33",
             "repo": "gh-pr-todo",
             "stars": 1,
@@ -1701,8 +1701,8 @@
             "id": 547001641,
             "language": "Rust",
             "license": "BSL-1.0",
-            "last_commit": "2026-11-05T15:16:34Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-06T04:43:52Z",
+            "open_issues": 2,
             "owner": "speedyleion",
             "repo": "gh-difftool",
             "stars": 21,
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:31:28.914Z",
+    "last_updated": "2026-11-07T03:01:43.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
