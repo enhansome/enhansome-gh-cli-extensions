@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12737,
+            "stars": 12741,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 483,
+            "stars": 484,
             "topics": [
               "cli",
               "gh-extension",
@@ -319,7 +319,7 @@
             "open_issues": 0,
             "owner": "actions",
             "repo": "gh-actions-cache",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "gh-extension",
               "golang"
@@ -575,30 +575,6 @@
         },
         {
           "node_type": "item",
-          "title": "metrics",
-          "description": "Extension that provides summary pull request metrics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A GitHub CLI extension that provides summary pull request metrics.",
-            "homepage": null,
-            "id": 472937449,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-11-10T03:22:25Z",
-            "open_issues": 1,
-            "owner": "hectcastro",
-            "repo": "gh-metrics",
-            "stars": 64,
-            "topics": [
-              "gh-extension",
-              "hacktoberfest"
-            ]
-          },
-          "first_seen": "2026-08-28T07:00:45.957Z"
-        },
-        {
-          "node_type": "item",
           "title": "bump",
           "description": "Extension for bumping version of a repository.",
           "children": [],
@@ -609,17 +585,41 @@
             "id": 401330642,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-20T17:45:52Z",
+            "last_commit": "2026-11-10T17:58:30Z",
             "open_issues": 12,
             "owner": "johnmanjiro13",
             "repo": "gh-bump",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "cli",
               "gh-extension",
               "github",
               "go",
               "golang"
+            ]
+          },
+          "first_seen": "2026-08-28T07:00:45.957Z"
+        },
+        {
+          "node_type": "item",
+          "title": "metrics",
+          "description": "Extension that provides summary pull request metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A GitHub CLI extension that provides summary pull request metrics.",
+            "homepage": null,
+            "id": 472937449,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-10T11:37:41Z",
+            "open_issues": 0,
+            "owner": "hectcastro",
+            "repo": "gh-metrics",
+            "stars": 64,
+            "topics": [
+              "gh-extension",
+              "hacktoberfest"
             ]
           },
           "first_seen": "2026-08-28T07:00:45.957Z"
@@ -737,8 +737,8 @@
             "id": 1163121569,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-27T16:54:35Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T16:54:10Z",
+            "open_issues": 4,
             "owner": "sudosubin",
             "repo": "gh-attach",
             "stars": 45,
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-09T21:52:39Z",
+            "last_commit": "2026-11-10T10:10:24Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1348,7 +1348,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 906,
+            "stars": 907,
             "topics": [
               "cli",
               "gh-extension",
@@ -1500,7 +1500,7 @@
             "open_issues": 11,
             "owner": "matt-bartel",
             "repo": "gh-clone-org",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "gh-extension"
             ]
@@ -1799,8 +1799,8 @@
             "id": 461732561,
             "language": "Go",
             "license": null,
-            "last_commit": "2026-10-20T22:57:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-10T21:00:27Z",
+            "open_issues": 3,
             "owner": "nicokosi",
             "repo": "gh-collab-scanner",
             "stars": 7,
@@ -2022,7 +2022,7 @@
             "open_issues": 3,
             "owner": "vilmibm",
             "repo": "gh-screensaver",
-            "stars": 216,
+            "stars": 215,
             "topics": [
               "gh-extension"
             ]
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T04:43:47.133Z",
+    "last_updated": "2026-11-11T02:55:21.672Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
