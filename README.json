@@ -19,7 +19,7 @@
             "open_issues": 12,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1030,
+            "stars": 1031,
             "topics": [
               "cli",
               "gh-extension"
@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12741,
+            "stars": 12746,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -184,7 +184,7 @@
             "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
-            "stars": 484,
+            "stars": 485,
             "topics": [
               "cli",
               "gh-extension",
@@ -213,7 +213,7 @@
             "open_issues": 217,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 481,
+            "stars": 482,
             "topics": [
               "gh-extension"
             ]
@@ -236,7 +236,7 @@
             "open_issues": 10,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 422,
+            "stars": 423,
             "topics": [
               "actions",
               "apps",
@@ -612,7 +612,7 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T11:37:41Z",
+            "last_commit": "2026-11-11T11:54:37Z",
             "open_issues": 0,
             "owner": "hectcastro",
             "repo": "gh-metrics",
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-10T10:10:24Z",
+            "last_commit": "2026-11-11T16:28:29Z",
             "open_issues": 2,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1348,7 +1348,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 907,
+            "stars": 906,
             "topics": [
               "cli",
               "gh-extension",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:55:21.672Z",
+    "last_updated": "2026-11-12T04:00:53.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
