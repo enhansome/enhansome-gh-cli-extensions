@@ -146,11 +146,11 @@
             "id": 417230885,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-26T18:21:17Z",
+            "last_commit": "2026-11-13T16:40:04Z",
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12751,
+            "stars": 12753,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -180,7 +180,7 @@
             "id": 491784345,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-06T05:34:26Z",
+            "last_commit": "2026-11-13T05:34:19Z",
             "open_issues": 1,
             "owner": "jrnxf",
             "repo": "gh-eco",
@@ -293,7 +293,7 @@
             "open_issues": 11,
             "owner": "meiji163",
             "repo": "gh-notify",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "cli",
               "gh-extension",
@@ -421,7 +421,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2025-10-28T13:29:25Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "yahsan2",
             "repo": "gh-sub-issue",
             "stars": 121,
@@ -1348,7 +1348,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 906,
+            "stars": 905,
             "topics": [
               "cli",
               "gh-extension",
@@ -1549,7 +1549,7 @@
             "open_issues": 5,
             "owner": "yuler",
             "repo": "gh-download",
-            "stars": 87,
+            "stars": 86,
             "topics": [
               "command",
               "download",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T03:30:46.292Z",
+    "last_updated": "2026-11-14T03:26:56.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
