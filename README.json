@@ -15,11 +15,11 @@
             "id": 412209066,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:12:42Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-14T08:05:14Z",
+            "open_issues": 13,
             "owner": "seachicken",
             "repo": "gh-poi",
-            "stars": 1031,
+            "stars": 1032,
             "topics": [
               "cli",
               "gh-extension"
@@ -146,11 +146,11 @@
             "id": 417230885,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-13T16:40:04Z",
+            "last_commit": "2026-11-14T13:10:26Z",
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12753,
+            "stars": 12755,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -209,8 +209,8 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-31T16:34:53Z",
-            "open_issues": 218,
+            "last_commit": "2026-11-14T16:33:24Z",
+            "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
             "stars": 482,
@@ -867,8 +867,8 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-11T16:28:29Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-15T01:38:32Z",
+            "open_issues": 1,
             "owner": "sarumaj",
             "repo": "gh-gr",
             "stars": 9,
@@ -1399,7 +1399,7 @@
             "open_issues": 0,
             "owner": "gennaro-tedesco",
             "repo": "gh-f",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "command-line",
               "gh-extension",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T03:26:56.627Z",
+    "last_updated": "2026-11-15T02:57:05.521Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
