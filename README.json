@@ -150,7 +150,7 @@
             "open_issues": 111,
             "owner": "dlvhdr",
             "repo": "gh-dash",
-            "stars": 12755,
+            "stars": 12760,
             "topics": [
               "bubbles",
               "bubbletea",
@@ -213,7 +213,7 @@
             "open_issues": 220,
             "owner": "github",
             "repo": "gh-gei",
-            "stars": 482,
+            "stars": 483,
             "topics": [
               "gh-extension"
             ]
@@ -267,7 +267,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "cli",
               "codespaces",
@@ -397,7 +397,7 @@
             "open_issues": 3,
             "owner": "KOBA789",
             "repo": "gh-sql",
-            "stars": 133,
+            "stars": 132,
             "topics": [
               "cli",
               "gh-extension",
@@ -491,7 +491,7 @@
             "open_issues": 2,
             "owner": "github",
             "repo": "gh-projects",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "gh-extension"
             ]
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-15T01:38:32Z",
+            "last_commit": "2026-11-16T00:36:46Z",
             "open_issues": 1,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -1225,7 +1225,7 @@
             "open_issues": 50,
             "owner": "github",
             "repo": "gh-classroom",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "gh-extension"
             ]
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T02:57:05.521Z",
+    "last_updated": "2026-11-16T02:56:21.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
