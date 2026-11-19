@@ -18,7 +18,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Git
 
-* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,033 | 🐛 13 | 🌐 Go | 📅 2026-11-14 - Safely clean up your local branches.
+* [**poi**](https://github.com/seachicken/gh-poi) ⭐ 1,034 | 🐛 13 | 🌐 Go | 📅 2026-11-14 - Safely clean up your local branches.
 * [**branch**](https://github.com/mislav/gh-branch) ⭐ 276 | 🐛 3 | 🌐 Shell | 📅 2024-07-16 - Extension for fuzzy finding, quickly switching between and deleting branches.
 * [**clean-branches**](https://github.com/davidraviv/gh-clean-branches) ⭐ 191 | 🐛 1 | 🌐 Shell | 📅 2026-06-19 - Safely delete local branches that have no remotes and no hanging changes.
 * [**tidy**](https://github.com/HaywardMorihara/gh-tidy) ⭐ 65 | 🐛 18 | 🌐 Shell | 📅 2026-08-14 - Extension for tidying your Git workspace.
@@ -26,10 +26,10 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,764 | 🐛 113 | 🌐 Go | 📅 2026-11-16 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,766 | 🐛 113 | 🌐 Go | 📅 2026-11-16 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 486 | 🐛 1 | 🌐 Go | 📅 2026-11-13 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 485 | 🐛 221 | 🌐 C# | 📅 2026-11-17 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
-* [**token**](https://github.com/Link-/gh-token) ⭐ 426 | 🐛 10 | 🌐 Go | 📅 2026-11-09 - Create an installation access token for a GitHub app from your terminal.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 484 | 🐛 221 | 🌐 C# | 📅 2026-11-17 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**token**](https://github.com/Link-/gh-token) ⭐ 427 | 🐛 10 | 🌐 Go | 📅 2026-11-09 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 352 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
