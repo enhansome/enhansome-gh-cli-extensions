@@ -26,9 +26,9 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ## Github
 
-* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,766 | 🐛 115 | 🌐 Go | 📅 2026-11-16 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
+* [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,767 | 🐛 115 | 🌐 Go | 📅 2026-11-21 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 485 | 🐛 1 | 🌐 Go | 📅 2026-11-13 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 214 | 🌐 C# | 📅 2026-11-19 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 215 | 🌐 C# | 📅 2026-11-21 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
 * [**token**](https://github.com/Link-/gh-token) ⭐ 426 | 🐛 10 | 🌐 Go | 📅 2026-11-09 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 351 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
