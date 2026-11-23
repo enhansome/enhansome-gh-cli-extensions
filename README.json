@@ -612,8 +612,8 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T11:33:17Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-23T03:22:40Z",
+            "open_issues": 2,
             "owner": "hectcastro",
             "repo": "gh-metrics",
             "stars": 64,
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-20T17:56:29Z",
+            "last_commit": "2026-11-23T00:32:28Z",
             "open_issues": 1,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T03:21:29.944Z",
+    "last_updated": "2026-11-23T03:53:53.376Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",

@@ -44,7 +44,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) ⭐ 85 | 🐛 4 | 🌐 Go | 📅 2026-02-15 - GitHub CLI extension for managing milestones.
 * [**label**](https://github.com/heaths/gh-label) ⭐ 67 | 🐛 2 | 🌐 Go | 📅 2022-01-20 - Extension for issue label management.
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 64 | 🐛 12 | 🌐 Go | 📅 2026-11-10 - Extension for bumping version of a repository.
-* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2026-11-20 - Extension that provides summary pull request metrics.
+* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 2 | 🌐 Go | 📅 2026-11-23 - Extension that provides summary pull request metrics.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2023-07-10 - Extension to manage repository collaborators.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) ⭐ 55 | 🐛 2 | 🌐 Lua | 📅 2023-05-01 - Explore GitHub repos using xplr via GitHub CLI.
 * [**stars**](https://github.com/aymanbagabas/gh-stars) ⭐ 54 | 🐛 4 | 🌐 Go | 📅 2023-11-06 - GitHub stargazers in your terminal.
@@ -54,7 +54,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**hook**](https://github.com/lucasmelin/gh-hook) ⭐ 12 | 🐛 0 | 🌐 Go | 📅 2023-03-10 - Extension to easily manage your github repository webhooks.
 * [**ls**](https://github.com/wuwe1/gh-ls) ⭐ 12 | 🐛 1 | 🌐 Shell | 📅 2023-03-09 - GitHub CLI to list contents of GitHub repo.
 * [**reaction**](https://github.com/ccoVeille/gh-reaction) ⭐ 12 | 🐛 15 | 🌐 Go | 📅 2026-09-21 - View recent GitHub emoji reactions on your posts and repositories, or someone else's.
-* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 1 | 🌐 Go | 📅 2026-11-20 - Pull, push and check status on multiple GitHub repositories at once.
+* [**gr**](https://github.com/sarumaj/gh-gr) ⭐ 9 | 🐛 1 | 🌐 Go | 📅 2026-11-23 - Pull, push and check status on multiple GitHub repositories at once.
 * [**pulls**](https://github.com/AaronMoat/gh-pulls) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2023-03-18 - View all open pull requests you have created.
 * [**copilot-review**](https://github.com/ChrisCarini/gh-copilot-review) ⭐ 4 | 🐛 0 | 🌐 Shell | 📅 2026-08-12 - Extension to request a [Copilot code review](https://github.blog/changelog/2025-04-04-copilot-code-review-now-generally-available/) on a PR.
 * [**get-asset**](https://github.com/chmouel/gh-get-asset) ⚠️ Archived - Fetch an asset (ie: binary) from a GitHub release.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
