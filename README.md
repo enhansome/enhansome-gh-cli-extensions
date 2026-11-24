@@ -28,8 +28,8 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 * [**dash**](https://github.com/dlvhdr/gh-dash) ⭐ 12,767 | 🐛 115 | 🌐 Go | 📅 2026-11-21 - Extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 * [**eco**](https://github.com/thatvegandev/gh-eco) ⭐ 485 | 🐛 1 | 🌐 Go | 📅 2026-11-13 - Extension to explore github ecosystem, like github profile, etc.
-* [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 215 | 🌐 C# | 📅 2026-11-21 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
-* [**token**](https://github.com/Link-/gh-token) ⭐ 426 | 🐛 10 | 🌐 Go | 📅 2026-11-09 - Create an installation access token for a GitHub app from your terminal.
+* [**gei**](https://github.com/github/gh-gei) ⭐ 483 | 🐛 215 | 🌐 C# | 📅 2026-11-23 - Extension to help you move your enterprise to GitHub Enterprise Cloud.
+* [**token**](https://github.com/Link-/gh-token) ⭐ 427 | 🐛 10 | 🌐 Go | 📅 2026-11-23 - Create an installation access token for a GitHub app from your terminal.
 * [**net**](https://github.com/github/gh-net) ⚠️ Archived - Network bridge for [GitHub Codespaces](https://github.com/features/codespaces).
 * [**notify**](https://github.com/meiji163/gh-notify) ⭐ 351 | 🐛 11 | 🌐 Shell | 📅 2026-08-19 - Extension to display GitHub notifications.
 * [**actions-cache**](https://github.com/actions/gh-actions-cache) ⚠️ Archived - Extension to manage the GitHub Actions caches being used in a GitHub repository.
@@ -44,7 +44,7 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 * [**milestone**](https://github.com/valeriobelli/gh-milestone) ⭐ 85 | 🐛 4 | 🌐 Go | 📅 2026-02-15 - GitHub CLI extension for managing milestones.
 * [**label**](https://github.com/heaths/gh-label) ⭐ 67 | 🐛 2 | 🌐 Go | 📅 2022-01-20 - Extension for issue label management.
 * [**bump**](https://github.com/johnmanjiro13/gh-bump) ⭐ 64 | 🐛 12 | 🌐 Go | 📅 2026-11-10 - Extension for bumping version of a repository.
-* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 2 | 🌐 Go | 📅 2026-11-23 - Extension that provides summary pull request metrics.
+* [**metrics**](https://github.com/hectcastro/gh-metrics) ⭐ 64 | 🐛 2 | 🌐 Go | 📅 2026-11-24 - Extension that provides summary pull request metrics.
 * [**repo-collab**](https://github.com/mislav/gh-repo-collab) ⭐ 58 | 🐛 5 | 🌐 Shell | 📅 2023-07-10 - Extension to manage repository collaborators.
 * [**xplr**](https://github.com/sayanarijit/gh-xplr) ⭐ 55 | 🐛 2 | 🌐 Lua | 📅 2023-05-01 - Explore GitHub repos using xplr via GitHub CLI.
 * [**stars**](https://github.com/aymanbagabas/gh-stars) ⭐ 54 | 🐛 4 | 🌐 Go | 📅 2023-11-06 - GitHub stargazers in your terminal.
@@ -120,4 +120,4 @@ See all public repositories matching `gh-extension` topic [here](https://github.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

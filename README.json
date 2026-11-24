@@ -209,7 +209,7 @@
             "id": 416855086,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-11-21T16:32:24Z",
+            "last_commit": "2026-11-23T20:22:27Z",
             "open_issues": 215,
             "owner": "github",
             "repo": "gh-gei",
@@ -232,11 +232,11 @@
             "id": 360687334,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T11:53:34Z",
+            "last_commit": "2026-11-23T11:53:42Z",
             "open_issues": 10,
             "owner": "Link-",
             "repo": "gh-token",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "actions",
               "apps",
@@ -267,7 +267,7 @@
             "open_issues": 32,
             "owner": "github",
             "repo": "gh-net",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "cli",
               "codespaces",
@@ -612,7 +612,7 @@
             "id": 472937449,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T03:22:40Z",
+            "last_commit": "2026-11-24T03:22:33Z",
             "open_issues": 2,
             "owner": "hectcastro",
             "repo": "gh-metrics",
@@ -867,7 +867,7 @@
             "id": 698624657,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-23T00:32:28Z",
+            "last_commit": "2026-11-23T06:27:48Z",
             "open_issues": 1,
             "owner": "sarumaj",
             "repo": "gh-gr",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T03:53:53.376Z",
+    "last_updated": "2026-11-24T07:01:26.569Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
