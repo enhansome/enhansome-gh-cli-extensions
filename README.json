@@ -1119,8 +1119,8 @@
             "id": 1040640161,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-17T03:58:35Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-27T22:43:02Z",
+            "open_issues": 4,
             "owner": "suree33",
             "repo": "gh-pr-todo",
             "stars": 1,
@@ -1348,7 +1348,7 @@
             "open_issues": 9,
             "owner": "yusukebe",
             "repo": "gh-markdown-preview",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "cli",
               "gh-extension",
@@ -2255,7 +2255,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:14:37.810Z",
+    "last_updated": "2026-11-28T04:52:28.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of github cli extensions.",
